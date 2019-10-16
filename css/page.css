@@ -231,7 +231,7 @@ transition:all 0.3s ease 0s;
 .lx_tab td em{ font-style:normal; color:red;}
 .lx_tab td .lx_btn{ width:80px; height:34px; border:none;background:url("../images/lx_btn.png") no-repeat left center; font-size:14px; color:#fff; cursor:pointer; font-weight:bold;}
 .contact .lyp{ font-size:14px; color:#255ab3; font-weight:bold; line-height:30px;}
-.gundong{ s width:751px;-moz-user-select:none;  height:380px; position:relative;}
+.gundong{ width:751px;-moz-user-select:none;  height:380px; position:relative;}
 
 .hezuo{ position:absolute; left:0px; top:0px; height:330px;}
 .hScrollPane_leftarrow{display:inline-block; width:26px; height:26px; background:url("../images/z1.png") no-repeat left center; position:absolute; left:310px; bottom:0px;}
@@ -397,7 +397,7 @@ transition:all 0.3s ease 0s;
 	height:34px; font-size:14px; line-height:34px; background:url("../images/bt_bg.png") repeat-x left top; color:#fff; padding:0 20px 0 10px; cursor:pointer; overflow:hidden; display:block; 
 }
 .left_menu a:hover {
-	ackground:url("../images/li_dq.png") no-repeat left top;
+	background:url("../images/li_dq.png") no-repeat left top;
 	color:#FFF
 }
 
@@ -414,7 +414,7 @@ transition:all 0.3s ease 0s;
 	height:30px; font-size:14px; line-height:30px; background:url("../images/li_dq.png") no-repeat left top; color:#fff; padding:0 20px 0 10px; cursor:pointer; overflow:hidden; display:block;
 }
 .index_left_menu a:hover {
-	ackground:url("../images/li_dq.png") no-repeat left top;
+	background:url("../images/li_dq.png") no-repeat left top;
 	color:#FFF
 }
 
