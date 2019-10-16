@@ -64,7 +64,6 @@
                         <dl>
                             <dd><a href="about.shtml" title="公司简介">公司简介</a></dd>
 				            <dd><a href="value.shtml" title="我们的价值">我们的价值</a></dd>
-				            <dd><a href="sndjt.shtml" title="索能达集团">索能达集团</a></dd>
 				            <dd><a href="contact.shtml" title="联系我们">联系我们</a></dd>
                             <dd><a href="recruitment/index.html">人才招聘</a></dd>
                             <dd><a href="partner/index.html">我们的合作伙伴</a></dd>
@@ -78,14 +77,6 @@
                                 <p><a href="txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
                                 <p><a href="gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
                                 <p><a href="dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
-                             </dd>
-                           <dd><a title="工业连接器" href="gyljq/index.html" style="font-weight: bold;">工业连接器</a>
-                                        <p><a href="gyljq181123/index.html" title="工业链接器  connector"><em>+</em> 工业链接器  connector</a></p>
-                                        <p><a href="jxljq181113/index.html" title="矩形连接器"><em>+</em> 矩形连接器</a></p>
-                                        <p><a href="yxljq181113/index.html" title="圆形连接器"><em>+</em> 圆形连接器</a></p>
-                                        <p><a href="zxq181113/index.html" title="执行器/传感器分线盒"><em>+</em> 执行器/传感器分线盒</a></p>
-                                        <p><a href="LLXT181113/index.html" title="LioN-Link 模块化I/O系统"><em>+</em> LioN-Link 模块化I/O系统</a></p>
-                                        <p><a href="jcxmk/index.html" title="紧凑型I/O模块"><em>+</em> 紧凑型I/O模块</a></p>
                              </dd>
                            <dd><a title="热销产品" href="rxcp/index.html" style="font-weight: bold;">热销产品</a>
                                   <EmptyTemplate>暂无子分类</EmptyTemplate>
@@ -239,13 +230,6 @@
             </ul>
             <ul class="last">
                 <li class="first"><a href="contact.shtml">联系我们</a></li>
-                <li>
-                	<a href="http://www.sonepar.com/" target="_blank">索能达集团</a> 
-                </li>
-                <li>
-	                <a href="http://www.sonepar.com.cn/" target="_blank">索能达中国</a> 
-                </li>
-
             </ul>
             <span style="position: absolute; right: 0px; bottom: 0px;">
     
