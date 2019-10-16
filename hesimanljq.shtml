@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>赫斯曼连接器的性能_热流电气有限公司</title>
+    <meta name="keywords" content="赫斯曼连接器,热流电气" />
+    <meta name="description" content="热流电气拥有最全面的电气产品，其中赫斯曼连接器是我公司代理主推品牌产品之一。我们通过自身优势，不断在全球发掘制造商，根据国内市场需求选择最适合的电气设备与技术解决方案。" />
+    <link type="text/css" href="images/icon.ico" rel="shortcut icon" />
+    <link type="text/css" href="css/base.css" rel="stylesheet" />
+    <link type="text/css" href="css/page.css" rel="stylesheet" />
+    <!--[if ie]>
+<script src="/js/html5.js"></script>
+<![endif]-->
+
+    <script src="js/jquery-1.8.3.min.js"></script>
+
+    <script type="text/javascript" src="js/main.js"></script>
+
+    <script src="js/jquery.LoadImage.js" type="text/javascript"></script>
+
+    <script src="js/sousuo.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+<body>
+    <div class="head clearfix">
+        <div class="head_cont clearfix">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="UpLoadFile/20181210/7399758d-09c4-42f8-845f-e7275ce5968e.png" alt="" />
+
+                </a>
+            </div>
+            <p class="top_r">
+	<a href="index.html">中文版</a> <span>|</span> <a href="http://en.electricfever.cn/" target="_blank">ENGLISH</a> <span>|</span> <a href="http://www.sonepar.com/" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="sitemap.shtml">网站地图</a> <span>|</span> <a href="contact.shtml">联系我们</a> 
+</p>
+
+            <div class="top_ss">
+                <input type="text" class="ss_txt" value="请输入搜索关键字" />
+                <input type="button" value="" class="ss_btn" />
+            </div>
+        </div>
+        <div class="nav">
+            <div class="nav_cur">
+                <div class="dq_nav">
+                </div>
+            </div>
+            <ul>
+                <li><a href="index.html">首页</a></li>
+                <li><a href="about.shtml">关于我们</a>
+                    <div class="down_nav">
+                        <dl>
+                            <dd><a href="about.shtml" title="公司简介">公司简介</a></dd>
+				<dd><a href="value.shtml" title="我们的价值">我们的价值</a></dd>
+				<dd><a href="sndjt.shtml" title="索能达集团">索能达集团</a></dd>
+				<dd><a href="jtxw.shtml" title="集团行为规范及合规准则">集团行为规范及合规准则</a></dd>
+				<dd><a href="jtjbcx.shtml" title="集团举报程序">集团举报程序</a></dd>
+				<dd><a href="develop.shtml" title="可持续发展">可持续发展</a></dd>
+				<dd><a href="contact.shtml" title="联系我们">联系我们</a></dd>
+				
+                            <dd>
+                                <a href="recruitment/index.html">人才招聘</a></dd>
+                            <dd>
+                                <a href="partner/index.html">我们的合作伙伴</a></dd>
+                        </dl>
+                    </div>
+                </li>
+                <li class="current"><a href="product/index.html">产品中心</a>
+                    <div class="down_nav">
+                        <dl>
+                            
+                           <dd><a title="电线电缆" href="dxdl/index.html" style="font-weight: bold;">电线电缆</a>
+                                  
+                                        <p><a href="txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
+                                    
+                                        <p><a href="gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
+                                    
+                                        <p><a href="dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
+                                    
+                                        <p><a href="tzdl/index.html" title="特种电缆"><em>+</em> 特种电缆</a></p>
+                                    
+                                        <p><a href="dldl/index.html" title="电力电缆"><em>+</em> 电力电缆</a></p>
+                                    
+                                        <p><a href="bxs/index.html" title="熔断器"><em>+</em> 熔断器</a></p>
+                                    
+                                        <p><a href="xcqj/index.html" title="线槽与桥架"><em>+</em> 线槽与桥架</a></p>
+                                    
+                             </dd>
+                          
+                           <dd><a title="个人防护" href="gefh/index.html" style="font-weight: bold;">个人防护</a>
+                                  
+                                        <p><a href="tbfh/index.html" title="头面听防护"><em>+</em> 头面听防护</a></p>
+                                    
+                                        <p><a href="hxfh/index.html" title="呼吸防护"><em>+</em> 呼吸防护</a></p>
+                                    
+                                        <p><a href="grfh/index.html" title="手部防护"><em>+</em> 手部防护</a></p>
+                                    
+                                        <p><a href="zbhl/index.html" title="足部防护"><em>+</em> 足部防护</a></p>
+                                    
+                                        <p><a href="stfh/index.html" title="身体防护"><em>+</em> 身体防护</a></p>
+                                    
+                                        <p><a href="zlfh181113/index.html" title="坠落防护"><em>+</em> 坠落防护</a></p>
+                                    
+                                        <p><a href="fwypx/index.html" title="服务与培训"><em>+</em> 服务与培训</a></p>
+                                    
+                                        <p><a href="hyjjfa/index.html" title="行业解决方案"><em>+</em> 行业解决方案</a></p>
+                                    
+                             </dd>
+                          
+                           <dd><a title="工业连接器" href="gyljq/index.html" style="font-weight: bold;">工业连接器</a>
+                                  
+                                        <p><a href="gyljq181123/index.html" title="工业链接器  connector"><em>+</em> 工业链接器  connector</a></p>
+                                    
+                                        <p><a href="jxljq181113/index.html" title="矩形连接器"><em>+</em> 矩形连接器</a></p>
+                                    
+                                        <p><a href="yxljq181113/index.html" title="圆形连接器"><em>+</em> 圆形连接器</a></p>
+                                    
+                                        <p><a href="zxq181113/index.html" title="执行器/传感器分线盒"><em>+</em> 执行器/传感器分线盒</a></p>
+                                    
+                                        <p><a href="LLXT181113/index.html" title="LioN-Link 模块化I/O系统"><em>+</em> LioN-Link 模块化I/O系统</a></p>
+                                    
+                                        <p><a href="jcxmk/index.html" title="紧凑型I/O模块"><em>+</em> 紧凑型I/O模块</a></p>
+                                    
+                             </dd>
+                          
+                           <dd><a title="热销产品" href="rxcp/index.html" style="font-weight: bold;">热销产品</a>
+                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
+                             </dd>
+                          
+                        </dl>
+                    </div>
+                </li>
+                <li id="dj"><a href="display/index.html">行业应用</a>
+                    <div class="down_nav">
+                        <dl>
+                            <dd><a href="display/gyzdh.shtml" title="工业自动化">工业自动化</a></dd>
+				<dd><a href="display/jxzz.shtml" title="机械制造">机械制造</a></dd>
+				<dd><a href="display/syshly.shtml" title="石油石化领域">石油石化领域</a></dd>
+				<dd><a href="display/qczz.shtml" title="汽车制造">汽车制造</a></dd>
+				<dd><a href="display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></dd>
+				<dd><a href="display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></dd>
+				<dd><a href="display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></dd>
+				<dd><a href="display/xny.shtml" title="新能源">新能源</a></dd>
+				
+                        </dl>
+                    </div>
+                </li>
+                <li id="ser"><a href="service/index.html">客户服务</a>
+                    <div class="down_nav">
+                        <dl>
+                            <dd><a href="service/index.html" title="服务优势">服务优势</a></dd>
+                        <dd><a href="download/index.html" title="下载中心">下载中心</a></dd>
+                        
+                        </dl>
+                    </div>
+                </li>
+                <li id="new"><a href="news/index.html">新闻中心</a>
+                    <div class="down_nav">
+                        <dl>
+                            <dd><a href="gsxw/index.html" title="公司新闻">公司新闻</a></dd>
+				<dd><a href="hyxw/index.html" title="行业新闻">行业新闻</a></dd>
+				
+                        </dl>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="ban">
+        <ul>
+            <li>
+                <img src="images/ban_pro01.jpg" width="1440" height="305" alt="" /></li>
+            <li>
+                <img src="images/ban_pro02.jpg" width="1440" height="305" alt="" /></li>
+        </ul>
+    </div>
+    <div class="content clearfix">
+        <div class="left_cont">
+            <div id="pro2" class="left_bt">
+                产品中心</div>
+            <div class="left_menu">
+                <ul>
+                    
+                           <li><a href="dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
+						<div class="left_down" >
+                                  
+                                        <p><a href="txdl/index.html" title="通讯电缆" gl="13">通讯电缆</a></p>
+                                    
+                                        <p><a href="gl/index.html" title="光缆" gl="12">光缆</a></p>
+                                    
+                                        <p><a href="dqsb/index.html" title="电气设备电缆" gl="11">电气设备电缆</a></p>
+                                    
+                                        <p><a href="tzdl/index.html" title="特种电缆" gl="10">特种电缆</a></p>
+                                    
+                                        <p><a href="dldl/index.html" title="电力电缆" gl="9">电力电缆</a></p>
+                                    
+                                        <p><a href="bxs/index.html" title="熔断器" gl="7">熔断器</a></p>
+                                    
+                                        <p><a href="xcqj/index.html" title="线槽与桥架" gl="6">线槽与桥架</a></p>
+                                    
+                           </div></li>
+                          
+                           <li><a href="gefh/index.html" title="个人防护" class="n_bg">个人防护</a>
+						<div class="left_down" >
+                                  
+                                        <p><a href="tbfh/index.html" title="头面听防护" gl="21">头面听防护</a></p>
+                                    
+                                        <p><a href="hxfh/index.html" title="呼吸防护" gl="24">呼吸防护</a></p>
+                                    
+                                        <p><a href="grfh/index.html" title="手部防护" gl="25">手部防护</a></p>
+                                    
+                                        <p><a href="zbhl/index.html" title="足部防护" gl="26">足部防护</a></p>
+                                    
+                                        <p><a href="stfh/index.html" title="身体防护" gl="27">身体防护</a></p>
+                                    
+                                        <p><a href="zlfh181113/index.html" title="坠落防护" gl="36">坠落防护</a></p>
+                                    
+                                        <p><a href="fwypx/index.html" title="服务与培训" gl="28">服务与培训</a></p>
+                                    
+                                        <p><a href="hyjjfa/index.html" title="行业解决方案" gl="29">行业解决方案</a></p>
+                                    
+                           </div></li>
+                          
+                           <li><a href="gyljq/index.html" title="工业连接器" class="n_bg">工业连接器</a>
+						<div class="left_down" >
+                                  
+                                        <p><a href="gyljq181123/index.html" title="工业链接器  connector" gl="37">工业链接器  connector</a></p>
+                                    
+                                        <p><a href="jxljq181113/index.html" title="矩形连接器" gl="35">矩形连接器</a></p>
+                                    
+                                        <p><a href="yxljq181113/index.html" title="圆形连接器" gl="34">圆形连接器</a></p>
+                                    
+                                        <p><a href="zxq181113/index.html" title="执行器/传感器分线盒" gl="33">执行器/传感器分线盒</a></p>
+                                    
+                                        <p><a href="LLXT181113/index.html" title="LioN-Link 模块化I/O系统" gl="32">LioN-Link 模块化I/O系统</a></p>
+                                    
+                                        <p><a href="jcxmk/index.html" title="紧凑型I/O模块" gl="30">紧凑型I/O模块</a></p>
+                                    
+                           </div></li>
+                          
+                           <li><a href="rxcp/index.html" title="热销产品" class="n_bg">热销产品</a>
+						<div class="left_down" >
+                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
+                           </div></li>
+                          
+                </ul>
+            </div>
+            <div class="left_news">
+                <div class="left_bt">
+                    <a href="News/index.html">更多>></a>相关新闻</div>
+                <ul>
+                    <li><a href="hyxw/sfdl19926.shtml" title="电缆伺服电缆与控制伺服电缆之间的区别你知道多少？">电缆伺服电缆与控制伺服电缆之间的区别你知道多少？</a></li>
+				<li><a href="hyxw/jqrdl19628.shtml" title="机器人电缆的使用要求是什么？该怎么检查其质量？">机器人电缆的使用要求是什么？该怎么检查其质量？</a></li>
+				<li><a href="hyxw/txdl19627.shtml" title="怎么使用拖链电缆？拖链电缆如何正确安装？">怎么使用拖链电缆？拖链电缆如何正确安装？</a></li>
+				<li><a href="hyxw/sfdl19626.shtml" title="你知道怎么安装伺服电缆吗？">你知道怎么安装伺服电缆吗？</a></li>
+				<li><a href="hyxw/sfdl19625.shtml" title="工业总线伺服线缆如何使用？有哪些注意事项？">工业总线伺服线缆如何使用？有哪些注意事项？</a></li>
+				
+                </ul>
+            </div>
+        </div>
+        <div class="right_cont">
+            <div class="right_bt">
+                <h2 class="fl">
+                    Belden旗下连接器品牌：隆堡&赫斯曼连接器</h2>
+                <p class="fr">
+                    <span>Your current location :</span><a href="index.html">Home</a><span>|</span><a href="product/index.html">Product</a><span>|</span>
+                    通信电缆</p>
+            </div>
+            <div class="cont">
+                <div class="ef">
+                    <p>
+	　　热流电气在电气设备相关解决方案一直处于全球分销市场领先地位。通过发掘制造商，识别和选择最适合市场需求的电气设备与技术解决方案。热流电气拥有最全面的电气产品，其中Beldel旗下的隆堡(Lumberg AutomationTM)和赫斯曼(HirschmannTM)连接器，均为欧洲具有领先技术水平的连接器品牌，是我公司代理主推品牌产品之一。
+</p>
+<p>
+	　　隆堡和<strong>赫斯曼连接器</strong>是电子工程技术人员经常接触的一种产品，主要的作用是将阻断或孤立不通的电路连接起来，从而使电流流通，使电路恢复使用功能。赫斯曼连接器是电子设备连通中不可缺少的部件，顺着电流流通的方向你可以观察到，连接器的组成形式与结构变化多样。随着电子行业的发展，连接器所使用的对象、频率、功率、环境都在不断发生变化。比如家庭中所使用的连接器与硬盘驱动器和飞机所使用的连接器会有很大的不同。无论是什么样式的连接器，都会使电流顺畅流通。
+</p>
+<p>
+	　　连接器产品类型在划分时比较混乱，但是从技术的角度来说，连接器只有两种基本的划分形式：1、按照外形划分：分为圆形和矩形，2、按照工作频率：低频和高频率。
+</p>
+<p>
+	　　连接器按照用途、安装方式、特殊结构、特殊性能等还可以划分出许多不同的类型，但考虑到连接器的技术发展以及实际使用情况，从而在通用性和相关性可划分为：1、低频圆形连接器；2、矩形连接器；3、印制电路连接器；4、射频连接器；5、光纤连接器。
+</p>
+<p>
+	　　隆堡&amp;赫斯曼连接器产品说明：
+</p>
+<p>
+	　　1、执行器/传感器线缆组件类型包括直式连接器或直角弯头式连接器，线数2至19，可用类型有M5, M8, M12, M23和7/8"。
+</p>
+<p>
+	　　2、双路连接器可用于执行器/传感器箱，T型连接器可用于Profibus, DeviceNet和Interbus等现场总线系统和总线连接和电源。
+</p>
+<p>
+	　　3、矩形连接器用于各种形式的液压，气压和电磁执行器(A/B/C型)，由于制作精良，可应对现场的高应力要求。
+</p>
+<p>
+	　　4、NR系列紧凑型圆形连接器使用固体金属材料制成，经久耐用，适合网络和控制线连接。
+</p>
+<p>
+	　　5、创新的总线连接器的数据传输速率高达每秒100兆位，屏蔽型式可确保达到这些高传输速率。
+</p>
+<p>
+	　　6、CA/CM系列加固型圆形连接器在测量，控制和调节技术领域已达到对普通设备的严格要求，具有极强的抗振性和抗干扰性。
+</p>
+<p>
+	　　7、ST系列产品适用于所有工业安装和设备制造的电源连接和信号传输。此外还适用于楼宇自动化的各种应用(例如遮阳保护)。
+</p>
+<p>
+	　　8、SunCon系列在屋顶和太阳能园区安装太阳能系统时，安装快速便捷，无须特殊工具，防护等级高，使用寿命长。
+</p>
+<p>
+	　　9、MAS/MAK系列产品多年来一直用作娱乐电子产品的通用接口，性能得到充分验证，同时在信息技术领域还用于多种前瞻性安全应用中。
+</p>
+<p>
+	　　<strong><span style="color:#003399;">以上就是热流电气为大家介绍的隆堡和赫斯曼连接器的类型划分及作用。如果你想了解更多隆堡和赫斯曼连接器相关知识或者购买该产品，欢迎来电咨询！</span></strong> 
+</p>
+<p>
+	　　<strong><span style="color:#e53333;font-size:14px;"><em>服务热线：021-61002584</em></span></strong> 
+</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="index">
+        <div class="index_cont">
+            <ul>
+                <li class="first"><a href="about.shtml">关于我们</a></li>
+                <li><a href="about.shtml" title="公司简介">公司简介</a></li>
+				<li><a href="value.shtml" title="我们的价值">我们的价值</a></li>
+				<li><a href="sndjt.shtml" title="索能达集团">索能达集团</a></li>
+				<li><a href="jtxw.shtml" title="集团行为规范及合规准则">集团行为规范及合规准则</a></li>
+				<li><a href="jtjbcx.shtml" title="集团举报程序">集团举报程序</a></li>
+				<li><a href="develop.shtml" title="可持续发展">可持续发展</a></li>
+				<li><a href="contact.shtml" title="联系我们">联系我们</a></li>
+				
+                <li><a href="recruitment/index.html">人才招聘</a></li>
+                <li><a href="partner/index.html">我们的合作伙伴</a></li>
+            </ul>
+            <ul>
+                <li class="first"><a href="product/index.html">产品中心</a></li>
+                <li><a href="dxdl/index.html" title="电线电缆">电线电缆</a></li>
+				<li><a href="gefh/index.html" title="个人防护">个人防护</a></li>
+				<li><a href="gyljq/index.html" title="工业连接器">工业连接器</a></li>
+				<li><a href="rxcp/index.html" title="热销产品">热销产品</a></li>
+				
+            </ul>
+            <ul>
+                <li class="first"><a href="display/index.html">行业应用</a></li>
+                <li class="a_2"><a href="display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
+				<li class="a_2"><a href="display/jxzz.shtml" title="机械制造">机械制造</a></li>
+				<li class="a_2"><a href="display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
+				<li class="a_2"><a href="display/qczz.shtml" title="汽车制造">汽车制造</a></li>
+				<li class="a_2"><a href="display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
+				<li class="a_2"><a href="display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
+				<li class="a_2"><a href="display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
+				<li class="a_2"><a href="display/xny.shtml" title="新能源">新能源</a></li>
+				
+            </ul>
+            <ul>
+                <li class="first"><a href="service/index.html">客户服务</a></li>
+                <li><a href="service/index.html" title="服务优势">服务优势</a></li>
+            <li><a href="download/index.html" title="下载中心">下载中心</a></li>
+            
+            </ul>
+            <ul>
+                <li class="first"><a href="news/index.html">新闻中心</a></li>
+                <li><a href="gsxw/index.html" title="公司新闻">公司新闻</a></li>
+				<li><a href="hyxw/index.html" title="行业新闻">行业新闻</a></li>
+				
+            </ul>
+            <ul class="last">
+                <li class="first"><a href="contact.shtml">联系我们</a></li>
+                <li>
+	<a href="http://www.sonepar.com/" target="_blank">索能达集团</a> 
+</li>
+<li>
+	<a href="http://www.sonepar.com.cn/" target="_blank">索能达中国</a> 
+</li>
+
+            </ul>
+            <span style="position: absolute; right: 0px; bottom: 0px;">
+                
+
+            </span>
+        </div>
+    </div>
+    <div class="foot">
+        <div class="foot_cont">
+            <p class="fl">
+	热流电气是索能达集团的全资子公司，旨在为经销商合作伙伴提供全面的线缆和连接器、安全防护等电气产品服务。比如<b>工业总线电缆</b>、<a href="baitongdianlan.shtml" target="_blank">百通电缆</a>、<b><a href="naikesendianlan.shtml" target="_blank">耐克森电缆</a></b>、<b><a href="hesimanljq.shtml" target="_blank">赫斯曼连接器</a></b>、和柔电缆、<b><a href="index.html" target="_blank">隆堡连接器</a></b>、拖链电缆、<b><a title="变频电缆" href="dqsb/index.html">变频电缆</a></b>、柔性电缆、<a title="机器人电缆" href="dqsb/index.html">机器人电缆</a>、<b><a href="dqsb/rldq10148.shtml" target="_blank">伺服电缆</a></b>、高温电缆、<strong>达克泰生命线</strong>、<strong>达克泰轨道系统</strong>。
+</p>
+<p style="text-align:left;" class="fr">
+	友情链接：<a href="https://www.dir001.com/" target="_blank"><strong>第一</strong><strong>分类目录</strong></a>&nbsp; &nbsp; &nbsp;&nbsp;<strong><a href="http://www.lindstromgroup.cn/" target="_blank">阻燃服</a></strong>
+</p>
+<p style="text-align:left;" class="fr">
+	<br />
+</p>
+<p class="fl">
+	Copyright@2003-2014 热流电气有限公司 All rights reserved.
+</p>
+<p class="fl">
+	<br />
+</p>
+<p class="fl">
+	<br />
+</p>
+<p style="text-align:right;" class="fr">
+	<a href="terms.shtml">使用条款</a> <span>|</span> <a href="policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
+</p>
+<p style="text-align:right;" class="fr">
+	<br />
+</p>
+<p style="text-align:left;" class="fr">
+	<br />
+</p>
+<p style="text-align:left;" class="fr">
+	<br />
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?9460c0f6d118ef37856c369720e47844";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254130319'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254130319%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+        </div>
+    </div>
+</body>
+</html>
+
+<script type="text/javascript">
+    $("a[gl=64]").css("color", "#1E64CC").parent().parent().css("display", "block");
+    $(".imgpro").LoadImage(true, 154, 142, "/UpLoadFile/loading.gif");
+</script><script type="text/javascript">
+function autoAddEllipsis(pStr, pLen) {
+    var _ret = cutString(pStr, pLen);
+    var _cutFlag = _ret.cutflag;
+    var _cutStringn = _ret.cutstring;
+    if ("1" == _cutFlag) {
+        return _cutStringn + "...";
+    } else {
+        return _cutStringn;
+    }
+}
+function cutString(pStr, pLen) {
+    var _strLen = pStr.length;
+    var _tmpCode;
+    var _cutString;
+    var _cutFlag = "1";
+    var _lenCount = 0;
+    var _ret = false;
+    if (_strLen <= pLen / 2) {
+        _cutString = pStr;
+        _ret = true;
+    }
+    if (!_ret) {
+        for (var i = 0; i < _strLen; i++) {
+            if (isFull(pStr.charAt(i))) {
+                _lenCount += 2;
+            } else {
+                _lenCount += 1;
+            }
+            if (_lenCount > pLen) {
+                _cutString = pStr.substring(0, i);
+                _ret = true;
+                break;
+            } else if (_lenCount == pLen) {
+                _cutString = pStr.substring(0, i + 1);
+                _ret = true;
+                break;
+            }
+        }
+    }
+    if (!_ret) {
+        _cutString = pStr;
+        _ret = true;
+    }
+    if (_cutString.length == _strLen) {
+       _cutFlag = "0";
+    }
+    return { "cutstring": _cutString, "cutflag": _cutFlag };
+}
+function isFull(pChar) {
+    for (var i = 0; i < pChar.length; i++) {
+        if ((pChar.charCodeAt(i) > 128)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
+ jQuery(function(){
+     jQuery(".SeoItem").each(function(){
+         jQuery(this).html(autoAddEllipsis(jQuery.trim(jQuery(this).text()),jQuery(this).attr("SeoLength")));
+     });
+});
+</script>
+<script src="QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
+var _zyat = _zyat || [];
+_zyat.push(['trackPageView']);
+_zyat.push(['enableLinkTracking']);
+(function() {
+var u="//tm.71360.com/";
+_zyat.push(['setTrackerUrl', u+'monitor']);
+_zyat.push(['setSiteId', 54364]);
+_zyat.push(['setCstId', 52705]);
+_zyat.push(['setSiteType', 1]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'monitor.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://ttotal.trueland.net/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "755"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><!-- JiaThis Button BEGIN -->
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?move=0&btn=r3.gif" charset="utf-8"></script>
+<!-- JiaThis Button END -->
