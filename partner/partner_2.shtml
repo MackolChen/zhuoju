@@ -9,20 +9,20 @@
          本公司自成立以来，拥有一批精通本行业业务的技术专家、产品营销和渠道管理人员，以完善的物流体系、专业的技术方案。为客户提供工业控制电缆、广电音视频电缆、通信电缆光缆与智能综合布线等具体项目的方案设计、电缆光缆选型等服务。并先后同Sumsang、Hynix、HuaWei、GM、CNOOC、FIBERHOME FUJIKURA等公司建立了良好的合作关系 
           我们力求为客户提供优质的产品和实用的解决方案，以及高效细致的售后服务。     
            我们凭借诚信的服务宗旨、高效的响应能力、前瞻的市场远见，赢得了客户持久信赖。" />
-        <link type="text/css" href="images/icon.ico" rel="shortcut icon" />
-        <link type="text/css" href="css/base.css" rel="stylesheet" />
-        <link type="text/css" href="css/page.css" rel="stylesheet" />
+        <link type="text/css" href="../images/icon.ico" rel="shortcut icon" />
+        <link type="text/css" href="../css/base.css" rel="stylesheet" />
+        <link type="text/css" href="../css/page.css" rel="stylesheet" />
         <!--[if ie]>
     <script src="/js/html5.js"></script>
     <![endif]-->
     
-        <script src="js/jquery-1.8.3.min.js"></script>
+        <script src="../js/jquery-1.8.3.min.js"></script>
     
-        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="../js/main.js"></script>
     
-        <script src="js/jquery.LoadImage.js" type="text/javascript"></script>
+        <script src="../js/jquery.LoadImage.js" type="text/javascript"></script>
     
-        <script src="js/sousuo.js" type="text/javascript"></script>
+        <script src="../js/sousuo.js" type="text/javascript"></script>
     <!-- <script>
     var _hmt = _hmt || [];
     (function() {
@@ -44,7 +44,7 @@
                 </a>
             </div>
             <p class="top_r">
-	        <a href="http://www.sonepar.com/" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="sitemap.shtml">网站地图</a> <span>|</span> <a href="contact.shtml">联系我们</a> 
+	        <a href="https://www.iewc.com" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="sitemap.shtml">网站地图</a> <span>|</span> <a href="contact.shtml">联系我们</a> 
             </p>
 
             <div class="top_ss">
@@ -58,8 +58,8 @@
                 </div>
             </div>
             <ul>
-                <li class="current"><a href="index.html">首页</a></li>
-                <li><a href="about.shtml">关于我们</a>
+                <li><a href="index.html">首页</a></li>
+                <li class="current"><a href="about.shtml">关于我们</a>
                     <div class="down_nav">
                         <dl>
                             <dd><a href="about.shtml" title="公司简介">公司简介</a></dd>
@@ -77,7 +77,7 @@
                                 <p><a href="txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
                                 <p><a href="gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
                                 <p><a href="dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
-                             </dd>
+                            </dd>
                            <dd><a title="热销产品" href="rxcp/index.html" style="font-weight: bold;">热销产品</a>
                                   <EmptyTemplate>暂无子分类</EmptyTemplate>
                              </dd>
@@ -106,13 +106,7 @@
                         </dl>
                     </div>
                 </li>
-                <li id="ser"><a href="service/index.html">联系我们</a>
-                    <div class="down_nav">
-                        <dl>
-                            <dd><a href="service/index.html" title="服务优势">服务优势</a></dd>
-                            <dd><a href="download/index.html" title="下载中心">下载中心</a></dd>
-                        </dl>
-                    </div>
+                <li id="ser"><a href="contact.shtml">联系我们</a>
                 </li>
             </ul>
         </div>
@@ -120,127 +114,112 @@
     <div class="ban">
         <ul>
             <li>
-                <img src="images/ban_terms.jpg" width="1440" height="305" alt="" /></li>
+                <img src="../images/ban_sndjt.jpg" width="1440" height="305" alt="" /></li>
         </ul>
     </div>
     <div class="content clearfix">
         <div class="left_cont">
             <div class="left_bt">
-                首页</div>
+                关于我们</div>
             <div class="left_nav">
                 <ul>
-                    <li class="current"><a href="sitemap.shtml">网站地图</a></li>
+                    <li gl="6"><a href="../about.shtml" title="公司简介">公司简介</a></li>
+				    <li gl="5"><a href="../value.shtml" title="我们的价值">我们的价值</a></li>
+				    <li gl="2"><a href="../contact.shtml" title="联系我们">联系我们</a></li>
+				
+                    <li><a href="../recruitment/index.html">人才招聘</a></li>
+                    <li class="current"><a href="index.html">我们的合作伙伴</a></li>
                 </ul>
             </div>
         </div>
         <div class="right_cont">
             <div class="right_bt">
                 <h2 class="fl">
-                    网站地图</h2>
+                    我们的合作伙伴</h2>
                 <p class="fr">
-                    <span>Your current location :</span><a href="index.html">Home</a><span>|</span><a href="sitemap.shtml">Sitemap</a><span>|</span>网站地图</p>
+                    <span>Your current location :</span><a href="../index.html">Home</a><span>|</span><a href="../about.shtml">About
+                        us</a><span>|</span>我们的合作伙伴</p>
             </div>
             <div class="cont">
-                <ul class="sitemap">
-                    <li><a href="index.html">网站首页</a>
-                        <p>
-                            <a href="index.html">网站首页</a></p>
-                    </li>
-                    <li><a href="about.shtml">关于我们</a><p>
-                        <a href="about.shtml" title="公司简介">公司简介</a>
-				<a href="value.shtml" title="我们的价值">我们的价值</a>
-				<a href="contact.shtml" title="联系我们">联系我们</a>
+                <p>
+	                    我们挑选最合适的行业领导者生产厂商作为战略合作伙伴，为客户在电气产品领域提供全面的品牌与产品选择。
+                </p>
+
+                <div class="partner">
+                    <ul>
+                        <li>
+						    <a href="../ob181112.shtml" target="_blank"><img class="imgcases" src="../images/prysmian-logo.png"  /><i></i></a>
+						    <p title="OBO  欧宝">OBO  欧宝</p>
+                        </li>
+                        <li>
+						    <a href="../ob181112.shtml" target="_blank"><img class="imgcases" src="../images/sab-logo.png"  /><i></i></a>
+						    <p title="OBO  欧宝">OBO  欧宝</p>
+                        </li>
+                        <li>
+						    <a href="../ob181112.shtml" target="_blank"><img class="imgcases" src="../images/southwire-logo.png"  /><i></i></a>
+						    <p title="OBO  欧宝">OBO  欧宝</p>
+                        </li>
+                        <li>
+						    <a href="../ob181112.shtml" target="_blank"><img class="imgcases" src="../images/te-wire-and-cable-logo.png"  /><i></i></a>
+						    <p title="OBO  欧宝">OBO  欧宝</p>
+                        </li>
+                        <li>
+						    <a href="../ob181112.shtml" target="_blank"><img class="imgcases" src="../images/thermax-logo.png"  /><i></i></a>
+						    <p title="OBO  欧宝">OBO  欧宝</p>
+                        </li>
+                        <li>
+						    <a href="../ob181112.shtml" target="_blank"><img class="imgcases" src="../images/thomas-and-betts-logo.png"  /><i></i></a>
+						    <p title="OBO  欧宝">OBO  欧宝</p>
+					    </li>
+                    </ul>
+                    <div class="pages">
+                        <div class="page" id="pgServer">
+                            
 				
-                        <a href="recruitment/index.html">人才招聘</a> <a href="partner/index.html">我们的合作伙伴</a></p>
-                    </li>
-                    <li><a href="product/index.html">产品中心</a>
-                        <p>
-                            <a href="dxdl/index.html" title="电线电缆">电线电缆</a>
-				<a href="gefh/index.html" title="个人防护">个人防护</a>
-				<a href="gyljq/index.html" title="工业连接器">工业连接器</a>
-				<a href="rxcp/index.html" title="热销产品">热销产品</a>
-				
-                        </p>
-                    </li>
-                    <li><a href="display/index.html">行业应用</a>
-                        <p>
-                            <a href="display/gyzdh.shtml" title="工业自动化">工业自动化</a>
-				<a href="display/jxzz.shtml" title="机械制造">机械制造</a>
-				<a href="display/syshly.shtml" title="石油石化领域">石油石化领域</a>
-				<a href="display/qczz.shtml" title="汽车制造">汽车制造</a>
-				<a href="display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a>
-				<a href="display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a>
-				<a href="display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a>
-				<a href="display/xny.shtml" title="新能源">新能源</a>
-				
-                        </p>
-                    </li>
-                    <li><a href="service/index.html">客户服务</a>
-                        <p>
-                            <a href="service/index.html" title="服务优势">服务优势</a>
-            <a href="download/index.html" title="下载中心">下载中心</a>
-            
-                        </p>
-                    </li>
-                    <li><a href="news/index.html">新闻中心</a>
-                        <p>
-                            <a href="gsxw/index.html" title="公司新闻">公司新闻</a>
-				<a href="hyxw/index.html" title="行业新闻">行业新闻</a>
-				
-                        </p>
-                    </li>
-                    <li><a href="contact.shtml">联系我们</a>
-                        <p>
-                            <a href="http://www.sonepar.com" target="_blank">索能达集团</a><a href="http://www.sonepar.com.cn" target="_blank">索能达中国</a>
-                        </p>
-                    </li>
-                </ul>
+				            <a href="index.html" >1</a>  <span href="partner_2.shtml" class="cpb">2</span>
+				            <a href="partner_2.shtml"><img src="../images/x.png" /></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
     <div class="index">
         <div class="index_cont">
             <ul>
-                <li class="first"><a href="about.shtml">关于我们</a></li>
-                <li><a href="about.shtml" title="公司简介">公司简介</a></li>
-				<li><a href="value.shtml" title="我们的价值">我们的价值</a></li>
-				<li><a href="contact.shtml" title="联系我们">联系我们</a></li>
-                <li><a href="recruitment/index.html">人才招聘</a></li>
-                <li><a href="partner/index.html">我们的合作伙伴</a></li>
+                <li class="first"><a href="../about.shtml">关于我们</a></li>
+                <li><a href="../about.shtml" title="公司简介">公司简介</a></li>
+				<li><a href="../value.shtml" title="我们的价值">我们的价值</a></li>
+				<li><a href="../contact.shtml" title="联系我们">联系我们</a></li>
+                <li><a href="../recruitment/index.html">人才招聘</a></li>
+                <li><a href="../partner/index.html">我们的合作伙伴</a></li>
             </ul>
             <ul>
-                <li class="first"><a href="product/index.html">产品中心</a></li>
-                <li><a href="dxdl/index.html" title="电线电缆">电线电缆</a></li>
-				<li><a href="gyljq/index.html" title="工业连接器">工业连接器</a></li>
-				<li><a href="rxcp/index.html" title="热销产品">热销产品</a></li>
+                <li class="first"><a href="../product/index.html">产品中心</a></li>
+                <li><a href="../dxdl/index.html" title="电线电缆">电线电缆</a></li>
+				<li><a href="../gyljq/index.html" title="工业连接器">工业连接器</a></li>
+				<li><a href="../rxcp/index.html" title="热销产品">热销产品</a></li>
 				
             </ul>
             <ul>
-                <li class="first"><a href="display/index.html">行业应用</a></li>
-                <li class="a_2"><a href="display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
-				<li class="a_2"><a href="display/jxzz.shtml" title="机械制造">机械制造</a></li>
-				<li class="a_2"><a href="display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
-				<li class="a_2"><a href="display/qczz.shtml" title="汽车制造">汽车制造</a></li>
-				<li class="a_2"><a href="display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
-				<li class="a_2"><a href="display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
-				<li class="a_2"><a href="display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
-				<li class="a_2"><a href="display/xny.shtml" title="新能源">新能源</a></li>
+                <li class="first"><a href="../display/index.html">行业应用</a></li>
+                <li class="a_2"><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
+				<li class="a_2"><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></li>
+				<li class="a_2"><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
+				<li class="a_2"><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></li>
+				<li class="a_2"><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
+				<li class="a_2"><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
+				<li class="a_2"><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
+				<li class="a_2"><a href="../display/xny.shtml" title="新能源">新能源</a></li>
             </ul>
             <ul>
-                <li class="first"><a href="news/index.html">新闻中心</a></li>
-                <li><a href="gsxw/index.html" title="公司新闻">公司新闻</a></li>
-				<li><a href="hyxw/index.html" title="行业新闻">行业新闻</a></li>
+                <li class="first"><a href="../news/index.html">新闻中心</a></li>
+                <li><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></li>
+				<li><a href="../hyxw/index.html" title="行业新闻">行业新闻</a></li>
 				
             </ul>
             <ul class="last">
-                <li class="first"><a href="contact.shtml">联系我们</a></li>
-                <li>
-                	<a href="http://www.sonepar.com/" target="_blank">索能达集团</a> 
-                </li>
-                <li>
-	                <a href="http://www.sonepar.com.cn/" target="_blank">索能达中国</a> 
-                </li>
-
+                <li class="first"><a href="../contact.shtml">联系我们</a></li>
             </ul>
             <span style="position: absolute; right: 0px; bottom: 0px;">
     
@@ -269,7 +248,7 @@
 	            <br />
             </p>
             <p style="text-align:right;" class="fr">
-	            <a href="terms.shtml">使用条款</a> <span>|</span> <a href="policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
+	            <a href="../terms.shtml">使用条款</a> <span>|</span> <a href="../policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
             </p>
             <p style="text-align:right;" class="fr">
 	            <br />
@@ -307,7 +286,11 @@
         </div>
     </div>
 </body>
-</html><script type="text/javascript">
+</html>
+
+<script type="text/javascript">
+    $(".imgcases").LoadImage(true, 164, 117, "/UpLoadFile/loading.gif");
+</script><script type="text/javascript">
 function autoAddEllipsis(pStr, pLen) {
     var _ret = cutString(pStr, pLen);
     var _cutFlag = _ret.cutflag;
@@ -371,7 +354,7 @@ function isFull(pChar) {
      });
 });
 </script>
-<script src="QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
+<script src="../QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
 var _zyat = _zyat || [];
 _zyat.push(['trackPageView']);
 _zyat.push(['enableLinkTracking']);
@@ -409,14 +392,6 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script><!-- JiaThis Button BEGIN -->
+<!-- JiaThis Button BEGIN -->
 <script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?move=0&btn=r3.gif" charset="utf-8"></script>
 <!-- JiaThis Button END -->

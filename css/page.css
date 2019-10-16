@@ -1,7 +1,7 @@
 body{ background:#fff; font-size:12px; line-height:22px; color:#666; font-family:Microsoft YaHei;}
 .head{ position:relative; width:100%; background:url("../images/top_bg.png") no-repeat right top; z-index:1000;}
 .head_cont{ width:1000px; height:105px; margin:0 auto; position:relative;}
-.logo{ width:556px; height:45px; overflow:hidden; position:absolute; left:0px; top:30px;}
+.logo{ width:400px; height:100px; overflow:hidden; position:absolute; left:0px; top:5px;}
 .head_cont .top_r{ position:absolute; right:0px; top:18px;}
 .head_cont .top_r span{ display:inline-block; margin:0 6px;}
 .top_ss{ width:324px; overflow:hidden; background:#fff; height:30px; position:absolute; right:0px; top:49px;}
