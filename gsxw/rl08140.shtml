@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>如何正确、简便地安装柔性电缆？</title>
+    <meta name="keywords" content="如何安装柔性电缆" />
+    <meta name="description" content="柔性电缆是什么？柔性电缆有什么作用？柔性电缆有什么特点？柔性电缆可以用于哪些领域？柔性电缆可以分为什么种类？下列热流电气有限公司为您揭晓柔性电缆的奥秘。" />
+    <link type="text/css" href="../images/icon.ico" rel="shortcut icon" />
+    <link type="text/css" href="../css/base.css" rel="stylesheet" />
+    <link type="text/css" href="../css/page.css" rel="stylesheet" />
+    <!--[if ie]>
+<script src="/js/html5.js"></script>
+<![endif]-->
+
+    <script src="../js/jquery-1.8.3.min.js"></script>
+
+    <script type="text/javascript" src="../js/main.js"></script>
+
+    <script src="../js/Hits.js" type="text/javascript"></script>
+
+    <script src="../js/sousuo.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+<body>
+        <div class="head clearfix">
+            <div class="head_cont clearfix">
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="../UpLoadFile/20181210/7399758d-09c4-42f8-845f-e7275ce5968e.png" alt="" />
+    
+                    </a>
+                </div>
+                <p class="top_r">
+                <a href="https://www.iewc.com" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="../sitemap.shtml">网站地图</a> <span>|</span> <a href="../contact.shtml">联系我们</a> 
+                </p>
+    
+                <div class="top_ss">
+                    <input type="text" class="ss_txt" value="请输入搜索关键字" />
+                    <input type="button" value="" class="ss_btn" />
+                </div>
+            </div>
+            <div class="nav">
+                <div class="nav_cur">
+                    <div class="dq_nav">
+                    </div>
+                </div>
+                <ul>
+                    <li><a href="../index.html">首页</a></li>
+                    <li><a href="../about.shtml">关于我们</a>
+                        <div class="down_nav">
+                            <dl>
+                                <dd><a href="../about.shtml" title="公司简介">公司简介</a></dd>
+                                <dd><a href="../value.shtml" title="我们的价值">我们的价值</a></dd>
+                                <dd><a href="../contact.shtml" title="联系我们">联系我们</a></dd>
+                                <dd><a href="../recruitment/index.html">人才招聘</a></dd>
+                                <dd><a href="../partner/index.html">我们的合作伙伴</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li class="current"><a href="../product/index.html">产品中心</a>
+                        <div class="down_nav">
+                            <dl>
+                               <dd><a title="电线电缆" href="../dxdl/index.html" style="font-weight: bold;">电线电缆</a>
+                                    <p><a href="../txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
+                                    <p><a href="../gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
+                                    <p><a href="../dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
+                                </dd>
+                               <dd><a title="热销产品" href="../rxcp/index.html" style="font-weight: bold;">热销产品</a>
+                                      <EmptyTemplate>暂无子分类</EmptyTemplate>
+                                 </dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li id="dj"><a href="../display/index.html">行业应用</a>
+                        <div class="down_nav">
+                            <dl>
+                                <dd><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></dd>
+                                <dd><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></dd>
+                                <dd><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></dd>
+                                <dd><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></dd>
+                                <dd><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></dd>
+                                <dd><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></dd>
+                                <dd><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></dd>
+                                <dd><a href="../display/xny.shtml" title="新能源">新能源</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li id="new"><a href="../news/index.html">新闻中心</a>
+                        <div class="down_nav">
+                            <dl>
+                                <dd><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></dd>
+                                <dd><a href="../hyxw/index.html" title="行业新闻">行业新闻</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li id="ser"><a href="../contact.shtml">联系我们</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    <div class="ban">
+        <ul>
+            <li>
+                <img src="../images/ban_news.jpg" width="1440" height="305" alt="" /></li>
+        </ul>
+    </div>
+    <div class="content clearfix">
+        <div class="left_cont">
+            <div class="left_bt">
+                新闻中心</div>
+            <div class="left_nav mb30">
+                <ul>
+                     <li gl="3"><a href="index.html" title="公司新闻">公司新闻</a></li>
+				 <li gl="2"><a href="../hyxw/index.html" title="行业新闻">行业新闻</a></li>
+				
+                </ul>
+            </div>
+            <div id="pro2" class="left_bt">
+                产品中心</div>
+            <div class="left_menu">
+                <ul>
+                    
+                           <li><a href="../dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
+						<div class="left_down" >
+                                  
+                                        <p><a href="../txdl/index.html" title="通讯电缆">通讯电缆</a></p>
+                                    
+                                        <p><a href="../gl/index.html" title="光缆">光缆</a></p>
+                                    
+                                        <p><a href="../dqsb/index.html" title="电气设备电缆">电气设备电缆</a></p>
+                                    
+                           </div></li>
+                          
+                           <li><a href="../rxcp/index.html" title="热销产品" class="n_bg">热销产品</a>
+						<div class="left_down" >
+                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
+                           </div></li>
+                          
+                </ul>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            $(".left_menu ul li:first").children("div").css("display", "block");
+        </script>
+
+        <div class="right_cont">
+            <div class="right_bt">
+                <h2 class="fl">
+                    公司新闻</h2>
+                <p class="fr">
+                    <span>Your current location :</span><a href="../index.html">Home</a><span>|</span><a href="../news/index.html">News</a><span>|</span>公司新闻</p>
+            </div>
+            <div class="cont">
+                <div class="detail clearfix">
+                    <h1>
+                        如何正确、简便地安装柔性电缆？</h1>
+                    <p class="sj">
+                        Source: 热流电气 Time:2015-08-14 Click:
+                        <script language="javascript" type="text/javascript"> new Hits(558).GetNewsHits();</script>
+
+                    </p>
+                    <div class="de">
+                        <p>
+	　　<a href="../dqsb/index.html" target="_blank">柔性电缆</a>，顾名思义，就是具有柔性的电缆。不过任何电缆都具有一定的柔性，而柔性电缆更多倾向于指可以自由移动位置。那么，柔性电缆有什么作用？有什么特点？可以用于哪些领域？柔性电缆可以分为什么种类？下列热流电气有限公司为您揭晓柔性电缆的奥秘。
+</p>
+<p align="center">
+	<img alt="如何安装柔性电缆" src="../UpLoadFile/20150814/7e43ef34-5ce9-413c-b1a3-32b3ce67d943.jpg" /> 
+</p>
+<p>
+	　　柔性电缆，也叫做拖链电缆，也叫做移动电缆，也叫做机器人电缆。从这些名字中，估计大家也大致知道柔性电缆的运用范围。它通常是用于拖链运动系统的，是一种常见的电力传输材料，也是一种普遍的信号传递载体。柔性电缆所采用的标准绞合铜导线结构、粘性低的护套和柔软的耐磨材料，使得其具有保护电缆的作用，使其不易磨损、扭曲、盘绕，大大降低了电缆在连续移动过程中受到的磨损率。
+</p>
+<p>
+	　　按照柔性电缆的功能来划分，市面上有伺服电机电缆，机器人电缆，清洁电缆，拖链系统用电缆等类型。柔性电缆也可以分为柔性控制电缆、柔性动力电缆、柔性总线电缆、柔性伺服电缆四种类型。按照型号来分的话，就有好多类型，这里就不一一列举了。虽然各种柔性电缆有不同之处，但是存在着共性。柔性电缆的阻燃性能好，耐油，耐酸碱，抗水解，抗紫外线，耐低温，耐磨。采购员在选择时要根据自身企业的需要，选择合适的电缆。
+</p>
+<p>
+	　　由于柔性电缆与普通的电缆有很大的差别，在安装时应该注意电缆的敷设不可以弯曲，不可以从电缆的某一端直接松开电缆，而是应该先旋转卷筒，使其展开，然后再将其悬挂起来。也要注意柔性电缆不应超过电缆的最小弯曲半径。敷设的电缆也要保持松散，且分散着排列，保持一定的间隙，通常间隙不少于电缆直径的10%。大家外敷设时千万不能使电缆之间有接触。柔性电缆的终点和起点端最好能够固定，如果不能达到，则至少应该固定其运动端。工作人员在移动电缆时，应该注意是在弯曲半径之内做相对运动。如果不慎损坏了柔性电缆的拖链，则需要连同电缆一起更换。热流电气有限公司祝大家用得舒心！
+</p>
+                    </div>
+                    <div class="tag">
+                        <b></b></div>
+                    <a href="javascript:window.location.href=document.referrer;" class="fh">返 回</a>
+                    <div class="page ud_a mb25">
+                        <p>
+                            <b>上一篇：</b><a href="rl08170.shtml" title="怎样选购伺服电缆才能判断它的使用效率">怎样选购伺服电缆才能判断它的使用效率</a></p>
+                        <p>
+                            <b>下一篇：</b><a href="rl08130.shtml" title="拖链电缆适合使用在哪些领域">拖链电缆适合使用在哪些领域</a></p>
+                    </div>
+                </div>
+                <div class="related" style="display: none;">
+                    <div class="innewstit" style="display: none;">
+                        <span>相关新闻</span><a href="../news/index.html"></a></div>
+                    <dl>
+                           
+                    <dt><a href="gyzxdl0311.shtml" target="_blank" title="工业总线电缆具备哪些使用优点？你造吗？">工业总线电缆具备哪些使用优点？你造吗？</a><span>2016-03-11</span></dt>
+                       
+                    <dt><a href="nksdl1109.shtml" target="_blank" title="选购电缆，从使用场合出发，针对性才是关键！">选购电缆，从使用场合出发，针对性才是关键！</a><span>2015-11-09</span></dt>
+                       
+                    <dt><a href="btdl0105.shtml" target="_blank" title="百通音频电缆——使用价值高，使用寿命长！">百通音频电缆——使用价值高，使用寿命长！</a><span>2016-01-05</span></dt>
+                       
+                    <dt><a href="rl0630.shtml" target="_blank" title="盘点高温电缆的铺设有哪些位置可以选择？">盘点高温电缆的铺设有哪些位置可以选择？</a><span>2015-06-30</span></dt>
+                       
+                    <dt><a href="rl1504211.shtml" target="_blank" title="柔性电缆的成功安装技巧盘点">柔性电缆的成功安装技巧盘点</a><span>2015-04-21</span></dt>
+                       
+                    <dt><a href="sf2016727.shtml" target="_blank" title="伺服电缆的发展前景如何？该怎么正确选择其型号？">伺服电缆的发展前景如何？该怎么正确选择其型号？</a><span>2016-07-27</span></dt>
+                    
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="index">
+            <div class="index_cont">
+                <ul>
+                    <li class="first"><a href="../about.shtml">关于我们</a></li>
+                    <li><a href="../about.shtml" title="公司简介">公司简介</a></li>
+                    <li><a href="../value.shtml" title="我们的价值">我们的价值</a></li>
+                    <li><a href="../contact.shtml" title="联系我们">联系我们</a></li>
+                    <li><a href="../recruitment/index.html">人才招聘</a></li>
+                    <li><a href="../partner/index.html">我们的合作伙伴</a></li>
+                </ul>
+                <ul>
+                    <li class="first"><a href="../product/index.html">产品中心</a></li>
+                    <li><a href="../dxdl/index.html" title="电线电缆">电线电缆</a></li>
+                    <li><a href="../rxcp/index.html" title="热销产品">热销产品</a></li>
+                    
+                </ul>
+                <ul>
+                    <li class="first"><a href="../display/index.html">行业应用</a></li>
+                    <li class="a_2"><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
+                    <li class="a_2"><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></li>
+                    <li class="a_2"><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
+                    <li class="a_2"><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></li>
+                    <li class="a_2"><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
+                    <li class="a_2"><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
+                    <li class="a_2"><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
+                    <li class="a_2"><a href="../display/xny.shtml" title="新能源">新能源</a></li>
+                </ul>
+                <ul>
+                    <li class="first"><a href="../news/index.html">新闻中心</a></li>
+                    <li><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></li>
+                    <li><a href="../hyxw/index.html" title="行业新闻">行业新闻</a></li>
+                </ul>
+                <ul class="last">
+                    <li class="first"><a href="../contact.shtml">联系我们</a></li>
+                </ul>
+                <span style="position: absolute; right: 0px; bottom: 0px;">
+                </span>
+            </div>
+        </div>
+        <div class="foot">
+            <div class="foot_cont">
+                <p class="fl">
+                    卓举是BELDEN、HIRSCHMANN、LUMBERG、Lapp、Alpha的授权代理商，并经销General Cable、Helukabel、HUBER+SUHNER、<a href="https://www.iewc.com" target="_blank">Hitachi Cable</a>、<a href="https://www.iewc.com" translate="_blank">LUTZE</a>、<a href="https://www.iewc.com/brands/nexans" target="_blank">Nexans</a>、Northwire、Panduit、Prysmian、SAB North America、TE Wire & Cable、Thermax、Thomas & Betts、Hubbell Canada、Aerospace Wire & Cable等国际品牌。这些代理的产品已完整配套应用于世界各地的汽车制造、机械设备、食品饮料、电力、油气、交通、通讯、矿山、制药医疗、楼宇自动化等诸多自动化领域。
+                </p>
+                <p style="text-align:left;" class="fr">
+                    友情链接：<a href="https://www.dir001.com/" target="_blank"><strong>第一</strong><strong>分类目录</strong></a>&nbsp; &nbsp; &nbsp;&nbsp;<strong><a href="http://www.lindstromgroup.cn/" target="_blank">阻燃服</a></strong>
+                </p>
+                <p style="text-align:left;" class="fr">
+                    <br />
+                </p>
+                <p class="fl">
+                    Copyright@2003-2014 上海卓举信息技术有限公司 All rights reserved.
+                </p>
+                <p class="fl">
+                    <br />
+                </p>
+                <p class="fl">
+                    <br />
+                </p>
+                <p style="text-align:right;" class="fr">
+                    <a href="../terms.shtml">使用条款</a> <span>|</span> <a href="../policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
+                </p>
+                <p style="text-align:right;" class="fr">
+                    <br />
+                </p>
+                <p style="text-align:left;" class="fr">
+	            <br />
+                </p>
+                <p style="text-align:left;" class="fr">
+	            <br />
+                </p>
+                <script>
+                var _hmt = _hmt || [];
+                (function() {
+                    var hm = document.createElement("script");
+                    hm.src = "//hm.baidu.com/hm.js?9460c0f6d118ef37856c369720e47844";
+                    var s = document.getElementsByTagName("script")[0]; 
+                    s.parentNode.insertBefore(hm, s);
+                })();
+                </script>
+                <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254130319'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254130319%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
+                <script>
+                (function(){
+                    var bp = document.createElement('script');
+                    var curProtocol = window.location.protocol.split(':')[0];
+                    if (curProtocol === 'https') {
+                        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                    }
+                    else {
+                        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                    }
+                    var s = document.getElementsByTagName("script")[0];
+                    s.parentNode.insertBefore(bp, s);
+                })();
+                </script>
+            </div>
+        </div>
+</body>
+</html>
+
+<script type="text/javascript">
+    $("li[gl=3]").addClass("current");
+</script><script type="text/javascript">
+function autoAddEllipsis(pStr, pLen) {
+    var _ret = cutString(pStr, pLen);
+    var _cutFlag = _ret.cutflag;
+    var _cutStringn = _ret.cutstring;
+    if ("1" == _cutFlag) {
+        return _cutStringn + "...";
+    } else {
+        return _cutStringn;
+    }
+}
+function cutString(pStr, pLen) {
+    var _strLen = pStr.length;
+    var _tmpCode;
+    var _cutString;
+    var _cutFlag = "1";
+    var _lenCount = 0;
+    var _ret = false;
+    if (_strLen <= pLen / 2) {
+        _cutString = pStr;
+        _ret = true;
+    }
+    if (!_ret) {
+        for (var i = 0; i < _strLen; i++) {
+            if (isFull(pStr.charAt(i))) {
+                _lenCount += 2;
+            } else {
+                _lenCount += 1;
+            }
+            if (_lenCount > pLen) {
+                _cutString = pStr.substring(0, i);
+                _ret = true;
+                break;
+            } else if (_lenCount == pLen) {
+                _cutString = pStr.substring(0, i + 1);
+                _ret = true;
+                break;
+            }
+        }
+    }
+    if (!_ret) {
+        _cutString = pStr;
+        _ret = true;
+    }
+    if (_cutString.length == _strLen) {
+       _cutFlag = "0";
+    }
+    return { "cutstring": _cutString, "cutflag": _cutFlag };
+}
+function isFull(pChar) {
+    for (var i = 0; i < pChar.length; i++) {
+        if ((pChar.charCodeAt(i) > 128)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
+ jQuery(function(){
+     jQuery(".SeoItem").each(function(){
+         jQuery(this).html(autoAddEllipsis(jQuery.trim(jQuery(this).text()),jQuery(this).attr("SeoLength")));
+     });
+});
+</script>
+<script src="../QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
+var _zyat = _zyat || [];
+_zyat.push(['trackPageView']);
+_zyat.push(['enableLinkTracking']);
+(function() {
+var u="//tm.71360.com/";
+_zyat.push(['setTrackerUrl', u+'monitor']);
+_zyat.push(['setSiteId', 54364]);
+_zyat.push(['setCstId', 52705]);
+_zyat.push(['setSiteType', 1]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'monitor.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://ttotal.trueland.net/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "755"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?409bf5c5bc11921e86263312126a7371";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><!-- JiaThis Button BEGIN -->
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?move=0&btn=r3.gif" charset="utf-8"></script>
+<!-- JiaThis Button END -->
