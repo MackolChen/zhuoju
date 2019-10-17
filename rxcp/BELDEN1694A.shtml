@@ -106,194 +106,191 @@ var _hmt = _hmt || [];
                 </ul>
             </div>
         </div>
-    <div class="ban">
-        <ul>
-            <li>
-                <img src="../images/ban_pro01.jpg" width="1440" height="305" alt="" /></li>
-            <li>
-                <img src="../images/ban_pro02.jpg" width="1440" height="305" alt="" /></li>
-        </ul>
-    </div>
-    <div class="content clearfix">
-        <div class="left_cont">
-            <div id="pro2" class="left_bt">
-                产品中心</div>
-            <div class="left_menu">
-                <ul>
+        <div class="ban">
+            <ul>
+                <li>
+                    <img src="../images/ban_pro01.jpg" width="1440" height="305" alt="" /></li>
+                <li>
+                    <img src="../images/ban_pro02.jpg" width="1440" height="305" alt="" /></li>
+            </ul>
+        </div>
+        <div class="content clearfix">
+            <div class="left_cont">
+                <div id="pro2" class="left_bt">
+                    产品中心</div>
+                <div class="left_menu">
+                    <ul>
+                        
+                            <li><a href="../dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
+                            <div class="left_down" >
+                                    
+                                            <p><a href="../txdl/index.html" title="通讯电缆" gl="13">通讯电缆</a></p>
+                                        
+                                            <p><a href="../gl/index.html" title="光缆" gl="12">光缆</a></p>
+                                        
+                                            <p><a href="../dqsb/index.html" title="电气设备电缆" gl="11">电气设备电缆</a></p>
+                                        
+                            </div></li>
+                            
+                            <li><a href="index.html" title="热销产品" class="n_bg">热销产品</a>
+                            <div class="left_down" >
+                                    <EmptyTemplate>暂无子分类</EmptyTemplate>
+                            </div></li>
+                            
+                    </ul>
+                </div>
+                <div class="left_news">
+                    <div class="left_bt">
+                        <a href="../News/index.html">更多>></a>相关新闻</div>
+                    <ul>
+                        <li><a href="../hyxw/txdl19529.shtml" title="要说拖链电缆如何选购？这样做是最好的">要说拖链电缆如何选购？这样做是最好的</a></li>
+                    <li><a href="../hyxw/rxdl19528.shtml" title="说一说柔性电缆的分类以及它的安装要求">说一说柔性电缆的分类以及它的安装要求</a></li>
+                    <li><a href="../news/lbzxmk19527.shtml" title="隆堡Lumberg总线模块结构以及特点有哪些？">隆堡Lumberg总线模块结构以及特点有哪些？</a></li>
+                    <li><a href="../news/lbljq19524.shtml" title="隆堡Lumberg M12连接器的应用领域与发展前景">隆堡Lumberg M12连接器的应用领域与发展前景</a></li>
+                    <li><a href="../hyxw/dktgdxt19523.shtml" title="达克泰轨道系统，为安全上了保险让作业更加自由">达克泰轨道系统，为安全上了保险让作业更加自由</a></li>
                     
-                           <li><a href="../dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
-						<div class="left_down" >
-                                  
-                                        <p><a href="../txdl/index.html" title="通讯电缆" gl="13">通讯电缆</a></p>
-                                    
-                                        <p><a href="../gl/index.html" title="光缆" gl="12">光缆</a></p>
-                                    
-                                        <p><a href="../dqsb/index.html" title="电气设备电缆" gl="11">电气设备电缆</a></p>
-                                    
-                           </div></li>
-                          
-                           <li><a href="index.html" title="热销产品" class="n_bg">热销产品</a>
-						<div class="left_down" >
-                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
-                           </div></li>
-                          
-                </ul>
+                    </ul>
+                </div>
             </div>
-            <div class="left_news">
-                <div class="left_bt">
-                    <a href="../News/index.html">更多>></a>相关新闻</div>
+            <div class="right_cont">
+                <div class="right_bt">
+                    <h2 class="fl">
+                        BELDEN 1694A</h2>
+                    <p class="fr">
+                        <span>您当前位置:</span><a href="../index.html">首页</a><span>|</span><a href="../product/index.html">产品中心</a><span>|</span>
+                        <a href="../product/index.html" title="通信电缆">通信电缆</a><span>|</span>工业总线</p>
+                </div>
+                <div class="cont">
+                    <table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#ffffff">
+        <tbody>
+            <tr>
+                <td>
+                    <img src="../UpLoadFile/20181122/1d584b8e-f26e-47fc-ade4-1237cdb419d7.png" width="300" height="131" alt="" /><br />
+                </td>
+                <td>
+                    <p>
+                        <strong><span style="color:#003399;font-size:14px;">BELDEN 1694A</span></strong> 
+                    </p>
+                    <p>
+                        Coax - Low Loss Serial Digital Coax 18 AWG PE/GIFHDPE SH FR PVC - RG 6
+                    </p>
+                    <p>
+                        <br />
+                    </p>
+                    <p>
+                        生产商编号 1694A 0061000 BLUE, 1694A 0101000 BLACK
+                    </p>
+                    <p>
+                        包装规格 1000 FEET
+                    </p>
+                    <p>
+                        <br />
+                    </p>
+                    <p>
+                        <a href="../UpLoadFile/20181122/1694A.pdf" target="_blank"><img src="../UpLoadFile/20181122/7dfbb68e-8c09-4d69-8552-587757dc726b.jpg" width="40" height="40" alt="" /></a>&nbsp; &nbsp; &nbsp;
+                    </p>
+                    <p>
+                        <strong><span style="color:#003399;"><a href="../UpLoadFile/20181122/1694A.pdf" target="_blank">规格书</a></span></strong> 
+                    </p>
+    <br />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <p>
+        　　<strong><span style="color:#003399;font-size:14px;">产品特点</span></strong> 
+    </p>
+    <p>
+        　　RG-6/U Type, 18 AWG solid .040" bare copper conductor, gas-injected foam 
+    HDPE insulation, Duofoil + tinned copper braid shield (95% coverage), PVC 
+    jacket.
+    </p>
+    <p>
+        <br />
+    </p>
+    <p>
+        &nbsp; &nbsp; &nbsp; <strong><span style="color:#003399;font-size:14px;">产品参数</span></strong> 
+    </p>
+    <p>
+        <strong><span style="color:#003399;"><img src="../UpLoadFile/20181122/08220784-41e8-4179-8c69-721d4b536018.jpg.png" alt="" /><br />
+    </span></strong> 
+    </p>
+                </div>
+            </div>
+        </div>
+        <div class="index">
+            <div class="index_cont">
                 <ul>
-                    <li><a href="../hyxw/txdl19529.shtml" title="要说拖链电缆如何选购？这样做是最好的">要说拖链电缆如何选购？这样做是最好的</a></li>
-				<li><a href="../hyxw/rxdl19528.shtml" title="说一说柔性电缆的分类以及它的安装要求">说一说柔性电缆的分类以及它的安装要求</a></li>
-				<li><a href="../news/lbzxmk19527.shtml" title="隆堡Lumberg总线模块结构以及特点有哪些？">隆堡Lumberg总线模块结构以及特点有哪些？</a></li>
-				<li><a href="../news/lbljq19524.shtml" title="隆堡Lumberg M12连接器的应用领域与发展前景">隆堡Lumberg M12连接器的应用领域与发展前景</a></li>
-				<li><a href="../hyxw/dktgdxt19523.shtml" title="达克泰轨道系统，为安全上了保险让作业更加自由">达克泰轨道系统，为安全上了保险让作业更加自由</a></li>
-				
+                    <li class="first"><a href="../about.shtml">关于我们</a></li>
+                    <li><a href="../about.shtml" title="公司简介">公司简介</a></li>
+                    <li><a href="../value.shtml" title="我们的价值">我们的价值</a></li>
+                    <li><a href="../contact.shtml" title="联系我们">联系我们</a></li>
+                    <li><a href="../recruitment/index.html">人才招聘</a></li>
+                    <li><a href="../partner/index.html">我们的合作伙伴</a></li>
                 </ul>
+                <ul>
+                    <li class="first"><a href="../product/index.html">产品中心</a></li>
+                    <li><a href="../dxdl/index.html" title="电线电缆">电线电缆</a></li>
+                    <li><a href="../rxcp/index.html" title="热销产品">热销产品</a></li>
+                    
+                </ul>
+                <ul>
+                    <li class="first"><a href="../display/index.html">行业应用</a></li>
+                    <li class="a_2"><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
+                    <li class="a_2"><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></li>
+                    <li class="a_2"><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
+                    <li class="a_2"><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></li>
+                    <li class="a_2"><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
+                    <li class="a_2"><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
+                    <li class="a_2"><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
+                    <li class="a_2"><a href="../display/xny.shtml" title="新能源">新能源</a></li>
+                </ul>
+                <ul>
+                    <li class="first"><a href="../news/index.html">新闻中心</a></li>
+                    <li><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></li>
+                    <li><a href="../hyxw/index.html" title="行业新闻">行业新闻</a></li>
+                </ul>
+                <ul class="last">
+                    <li class="first"><a href="../contact.shtml">联系我们</a></li>
+                </ul>
+                <span style="position: absolute; right: 0px; bottom: 0px;">
+                </span>
             </div>
         </div>
-        <div class="right_cont">
-            <div class="right_bt">
-                <h2 class="fl">
-                    BELDEN 1694A</h2>
-                <p class="fr">
-                    <span>您当前位置:</span><a href="../index.html">首页</a><span>|</span><a href="../product/index.html">产品中心</a><span>|</span>
-                    <a href="../product/index.html" title="通信电缆">通信电缆</a><span>|</span>工业总线</p>
-            </div>
-            <div class="cont">
-                <table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#ffffff">
-	<tbody>
-		<tr>
-			<td>
-				<img src="../UpLoadFile/20181122/1d584b8e-f26e-47fc-ade4-1237cdb419d7.png" width="300" height="131" alt="" /><br />
-			</td>
-			<td>
-				<p>
-					<strong><span style="color:#003399;font-size:14px;">BELDEN 1694A</span></strong> 
-				</p>
-				<p>
-					Coax - Low Loss Serial Digital Coax 18 AWG PE/GIFHDPE SH FR PVC - RG 6
-				</p>
-				<p>
-					<br />
-				</p>
-				<p>
-					生产商编号 1694A 0061000 BLUE, 1694A 0101000 BLACK
-				</p>
-				<p>
-					包装规格 1000 FEET
-				</p>
-				<p>
-					<br />
-				</p>
-				<p>
-					<a href="../UpLoadFile/20181122/1694A.pdf" target="_blank"><img src="../UpLoadFile/20181122/7dfbb68e-8c09-4d69-8552-587757dc726b.jpg" width="40" height="40" alt="" /></a>&nbsp; &nbsp; &nbsp;
-				</p>
-				<p>
-					<strong><span style="color:#003399;"><a href="../UpLoadFile/20181122/1694A.pdf" target="_blank">规格书</a></span></strong> 
-				</p>
-<br />
-			</td>
-		</tr>
-	</tbody>
-</table>
-<br />
-<p>
-	　　<strong><span style="color:#003399;font-size:14px;">产品特点</span></strong> 
-</p>
-<p>
-	　　RG-6/U Type, 18 AWG solid .040" bare copper conductor, gas-injected foam 
-HDPE insulation, Duofoil + tinned copper braid shield (95% coverage), PVC 
-jacket.
-</p>
-<p>
-	<br />
-</p>
-<p>
-	&nbsp; &nbsp; &nbsp; <strong><span style="color:#003399;font-size:14px;">产品参数</span></strong> 
-</p>
-<p>
-	<strong><span style="color:#003399;"><img src="../UpLoadFile/20181122/08220784-41e8-4179-8c69-721d4b536018.jpg.png" alt="" /><br />
-</span></strong> 
-</p>
-            </div>
-        </div>
-    </div>
-    <div class="index">
-        <div class="index_cont">
-            <ul>
-                <li class="first"><a href="about.shtml">关于我们</a></li>
-                <li><a href="about.shtml" title="公司简介">公司简介</a></li>
-				<li><a href="value.shtml" title="我们的价值">我们的价值</a></li>
-				<li><a href="contact.shtml" title="联系我们">联系我们</a></li>
-                <li><a href="recruitment/index.html">人才招聘</a></li>
-                <li><a href="partner/index.html">我们的合作伙伴</a></li>
-            </ul>
-            <ul>
-                <li class="first"><a href="product/index.html">产品中心</a></li>
-                <li><a href="dxdl/index.html" title="电线电缆">电线电缆</a></li>
-				<li><a href="rxcp/index.html" title="热销产品">热销产品</a></li>
-				
-            </ul>
-            <ul>
-                <li class="first"><a href="display/index.html">行业应用</a></li>
-                <li class="a_2"><a href="display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
-				<li class="a_2"><a href="display/jxzz.shtml" title="机械制造">机械制造</a></li>
-				<li class="a_2"><a href="display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
-				<li class="a_2"><a href="display/qczz.shtml" title="汽车制造">汽车制造</a></li>
-				<li class="a_2"><a href="display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
-				<li class="a_2"><a href="display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
-				<li class="a_2"><a href="display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
-				<li class="a_2"><a href="display/xny.shtml" title="新能源">新能源</a></li>
-            </ul>
-            <ul>
-                <li class="first"><a href="news/index.html">新闻中心</a></li>
-                <li><a href="gsxw/index.html" title="公司新闻">公司新闻</a></li>
-				<li><a href="hyxw/index.html" title="行业新闻">行业新闻</a></li>
-				
-            </ul>
-            <ul class="last">
-                <li class="first"><a href="contact.shtml">联系我们</a></li>
-            </ul>
-            <span style="position: absolute; right: 0px; bottom: 0px;">
-    
-
-            </span>
-        </div>
-    </div>
-    <div class="foot">
-        <div class="foot_cont">
-            <p class="fl">
-                卓举是BELDEN、HIRSCHMANN、LUMBERG、Lapp、Alpha的授权代理商，并经销General Cable、Helukabel、HUBER+SUHNER、<a href="https://www.iewc.com" target="_blank">Hitachi Cable</a>、<a href="https://www.iewc.com" translate="_blank">LUTZE</a>、<a href="https://www.iewc.com/brands/nexans" target="_blank">Nexans</a>、Northwire、Panduit、Prysmian、SAB North America、TE Wire & Cable、Thermax、Thomas & Betts、Hubbell Canada、Aerospace Wire & Cable等国际品牌。这些代理的产品已完整配套应用于世界各地的汽车制造、机械设备、食品饮料、电力、油气、交通、通讯、矿山、制药医疗、楼宇自动化等诸多自动化领域。
-            </p>
-            <p style="text-align:left;" class="fr">
-	            友情链接：<a href="https://www.dir001.com/" target="_blank"><strong>第一</strong><strong>分类目录</strong></a>&nbsp; &nbsp; &nbsp;&nbsp;<strong><a href="http://www.lindstromgroup.cn/" target="_blank">阻燃服</a></strong>
-            </p>
-            <p style="text-align:left;" class="fr">
+        <div class="foot">
+            <div class="foot_cont">
+                <p class="fl">
+                    卓举是BELDEN、HIRSCHMANN、LUMBERG、Lapp、Alpha的授权代理商，并经销General Cable、Helukabel、HUBER+SUHNER、<a href="https://www.iewc.com" target="_blank">Hitachi Cable</a>、<a href="https://www.iewc.com" translate="_blank">LUTZE</a>、<a href="https://www.iewc.com/brands/nexans" target="_blank">Nexans</a>、Northwire、Panduit、Prysmian、SAB North America、TE Wire & Cable、Thermax、Thomas & Betts、Hubbell Canada、Aerospace Wire & Cable等国际品牌。这些代理的产品已完整配套应用于世界各地的汽车制造、机械设备、食品饮料、电力、油气、交通、通讯、矿山、制药医疗、楼宇自动化等诸多自动化领域。
+                </p>
+                <p style="text-align:left;" class="fr">
+                    友情链接：<a href="https://www.dir001.com/" target="_blank"><strong>第一</strong><strong>分类目录</strong></a>&nbsp; &nbsp; &nbsp;&nbsp;<strong><a href="http://www.lindstromgroup.cn/" target="_blank">阻燃服</a></strong>
+                </p>
+                <p style="text-align:left;" class="fr">
+                    <br />
+                </p>
+                <p class="fl">
+                    Copyright@2003-2014 上海卓举信息技术有限公司 All rights reserved.
+                </p>
+                <p class="fl">
+                    <br />
+                </p>
+                <p class="fl">
+                    <br />
+                </p>
+                <p style="text-align:right;" class="fr">
+                    <a href="../terms.shtml">使用条款</a> <span>|</span> <a href="../policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
+                </p>
+                <p style="text-align:right;" class="fr">
+                    <br />
+                </p>
+                <p style="text-align:left;" class="fr">
 	            <br />
-            </p>
-            <p class="fl">
-                Copyright@2003-2014 上海卓举信息技术有限公司 All rights reserved.
-            </p>
-            <p class="fl">
+                </p>
+                <p style="text-align:left;" class="fr">
 	            <br />
-            </p>
-            <p class="fl">
-	            <br />
-            </p>
-            <p style="text-align:right;" class="fr">
-	            <a href="terms.shtml">使用条款</a> <span>|</span> <a href="policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
-            </p>
-            <p style="text-align:right;" class="fr">
-	            <br />
-            </p>
-            <p style="text-align:left;" class="fr">
-	            <br />
-            </p>
-            <p style="text-align:left;" class="fr">
-	            <br />
-            </p>
-            <script>
+                </p>
+                <script>
                 var _hmt = _hmt || [];
                 (function() {
                     var hm = document.createElement("script");
@@ -301,9 +298,9 @@ jacket.
                     var s = document.getElementsByTagName("script")[0]; 
                     s.parentNode.insertBefore(hm, s);
                 })();
-            </script>
-            <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254130319'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254130319%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
-            <script>
+                </script>
+                <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254130319'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254130319%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
+                <script>
                 (function(){
                     var bp = document.createElement('script');
                     var curProtocol = window.location.protocol.split(':')[0];
@@ -316,9 +313,9 @@ jacket.
                     var s = document.getElementsByTagName("script")[0];
                     s.parentNode.insertBefore(bp, s);
                 })();
-            </script>
+                </script>
+            </div>
         </div>
-    </div>
 </body>
 </html>
 
