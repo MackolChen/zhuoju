@@ -14,8 +14,7 @@ $(function() {
         nowindex++;
         if (nowindex < 0) {
             nowindex = length - 1;
-        }
-        else if (nowindex > length - 1) {
+        } else if (nowindex > length - 1) {
             nowindex = 0;
         }
         qiehuan.eq(nowindex).fadeIn('slow').siblings().fadeOut('slow');
@@ -38,12 +37,12 @@ $(function() {
     var myNum = 0;
     var myTimer = null;
     lis.eq(myNum).fadeIn('slow').siblings().fadeOut('slow');
+
     function ban() {
         myNum++;
         if (myNum < 0) {
             myNum = legs - 1;
-        }
-        else if (myNum > legs - 1) {
+        } else if (myNum > legs - 1) {
             myNum = 0;
         }
         lis.eq(myNum).fadeIn(800).siblings().fadeOut(800);
@@ -192,7 +191,7 @@ $(function() {
     var num2 = Math.ceil(num / 2);
     //$('.datu ul').css('width',$('.kh_ban .datu li').length*$('.kh_ban .datu li').width())
     function change() {
-         
+
         if (index < num2) {
             $('.xtu ul').stop(true, true).animate({ 'left': '0' }, 500)
         } else if (index + num2 < $('.xtu ul li').length) {
@@ -236,20 +235,20 @@ $(function() {
 
 $(document).ready(function() {
 
-/****/		
-		
-		
-		
-	     $(".index_left_menu li").mouseenter(function(){
-	     $(this).find("div.left_down").stop(true,true).slideDown().parent("li").siblings("li").find("div.left_down").slideUp();
-			})
+    /****/
 
-	     $(".left_menu li").mouseenter(function(){
-	     $(this).find("div.left_down").stop(true,true).slideDown().parent("li").siblings("li").find("div.left_down").slideUp();
-			})
-			
-			
-			
-	   
-	  
+
+
+    $(".index_left_menu li").mouseenter(function() {
+        $(this).find("div.left_down").stop(true, true).slideDown().parent("li").siblings("li").find("div.left_down").slideUp();
+    })
+
+    $(".left_menu li").mouseenter(function() {
+        $(this).find("div.left_down").stop(true, true).slideDown().parent("li").siblings("li").find("div.left_down").slideUp();
+    })
+
+
+
+
+
 })
