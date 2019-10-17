@@ -40,8 +40,8 @@ var _hmt = _hmt || [];
                 </a>
             </div>
             <p class="top_r">
-	<a href="../index.html">中文版</a> <span>|</span> <a href="http://en.electricfever.cn/" target="_blank">ENGLISH</a> <span>|</span> <a href="http://www.sonepar.com/" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="../sitemap.shtml">网站地图</a> <span>|</span> <a href="../contact.shtml">联系我们</a> 
-</p>
+                    <a href="https://www.iewc.com" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="../sitemap.shtml">网站地图</a> <span>|</span> <a href="../contact.shtml">联系我们</a> 
+                </p>
 
             <div class="top_ss">
                 <input type="text" class="ss_txt" value="请输入搜索关键字" />
@@ -60,10 +60,6 @@ var _hmt = _hmt || [];
                         <dl>
                             <dd><a href="../about.shtml" title="公司简介">公司简介</a></dd>
 				<dd><a href="../value.shtml" title="我们的价值">我们的价值</a></dd>
-				<dd><a href="../sndjt.shtml" title="索能达集团">索能达集团</a></dd>
-				<dd><a href="../jtxw.shtml" title="集团行为规范及合规准则">集团行为规范及合规准则</a></dd>
-				<dd><a href="../jtjbcx.shtml" title="集团举报程序">集团举报程序</a></dd>
-				<dd><a href="../develop.shtml" title="可持续发展">可持续发展</a></dd>
 				<dd><a href="../contact.shtml" title="联系我们">联系我们</a></dd>
 				
                             <dd>
@@ -84,50 +80,6 @@ var _hmt = _hmt || [];
                                         <p><a href="../gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
                                     
                                         <p><a href="../dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
-                                    
-                                        <p><a href="../tzdl/index.html" title="特种电缆"><em>+</em> 特种电缆</a></p>
-                                    
-                                        <p><a href="../dldl/index.html" title="电力电缆"><em>+</em> 电力电缆</a></p>
-                                    
-                                        <p><a href="../bxs/index.html" title="熔断器"><em>+</em> 熔断器</a></p>
-                                    
-                                        <p><a href="../xcqj/index.html" title="线槽与桥架"><em>+</em> 线槽与桥架</a></p>
-                                    
-                             </dd>
-                          
-                           <dd><a title="个人防护" href="../gefh/index.html" style="font-weight: bold;">个人防护</a>
-                                  
-                                        <p><a href="../tbfh/index.html" title="头面听防护"><em>+</em> 头面听防护</a></p>
-                                    
-                                        <p><a href="../hxfh/index.html" title="呼吸防护"><em>+</em> 呼吸防护</a></p>
-                                    
-                                        <p><a href="../grfh/index.html" title="手部防护"><em>+</em> 手部防护</a></p>
-                                    
-                                        <p><a href="../zbhl/index.html" title="足部防护"><em>+</em> 足部防护</a></p>
-                                    
-                                        <p><a href="../stfh/index.html" title="身体防护"><em>+</em> 身体防护</a></p>
-                                    
-                                        <p><a href="../zlfh181113/index.html" title="坠落防护"><em>+</em> 坠落防护</a></p>
-                                    
-                                        <p><a href="../fwypx/index.html" title="服务与培训"><em>+</em> 服务与培训</a></p>
-                                    
-                                        <p><a href="../hyjjfa/index.html" title="行业解决方案"><em>+</em> 行业解决方案</a></p>
-                                    
-                             </dd>
-                          
-                           <dd><a title="工业连接器" href="../gyljq/index.html" style="font-weight: bold;">工业连接器</a>
-                                  
-                                        <p><a href="../gyljq181123/index.html" title="工业链接器  connector"><em>+</em> 工业链接器  connector</a></p>
-                                    
-                                        <p><a href="../jxljq181113/index.html" title="矩形连接器"><em>+</em> 矩形连接器</a></p>
-                                    
-                                        <p><a href="../yxljq181113/index.html" title="圆形连接器"><em>+</em> 圆形连接器</a></p>
-                                    
-                                        <p><a href="../zxq181113/index.html" title="执行器/传感器分线盒"><em>+</em> 执行器/传感器分线盒</a></p>
-                                    
-                                        <p><a href="../LLXT181113/index.html" title="LioN-Link 模块化I/O系统"><em>+</em> LioN-Link 模块化I/O系统</a></p>
-                                    
-                                        <p><a href="../jcxmk/index.html" title="紧凑型I/O模块"><em>+</em> 紧凑型I/O模块</a></p>
                                     
                              </dd>
                           
@@ -153,15 +105,7 @@ var _hmt = _hmt || [];
                         </dl>
                     </div>
                 </li>
-                <li id="ser"><a href="../service/index.html">客户服务</a>
-                    <div class="down_nav">
-                        <dl>
-                            <dd><a href="../service/index.html" title="服务优势">服务优势</a></dd>
-                        <dd><a href="../download/index.html" title="下载中心">下载中心</a></dd>
-                        
-                        </dl>
-                    </div>
-                </li>
+
                 <li id="new" class="current"><a href="../news/index.html">新闻中心</a>
                     <div class="down_nav">
                         <dl>
@@ -170,6 +114,8 @@ var _hmt = _hmt || [];
 				
                         </dl>
                     </div>
+                </li>
+                <li id="ser"><a href="../service/index.html">联系我们</a>
                 </li>
             </ul>
         </div>

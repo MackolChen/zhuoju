@@ -68,7 +68,7 @@ var _hmt = _hmt || [];
                             </dl>
                         </div>
                     </li>
-                    <li class="current"><a href="../product/index.html">产品中心</a>
+                    <li><a href="../product/index.html">产品中心</a>
                         <div class="down_nav">
                             <dl>
                                <dd><a title="电线电缆" href="../dxdl/index.html" style="font-weight: bold;">电线电缆</a>
@@ -96,7 +96,7 @@ var _hmt = _hmt || [];
                             </dl>
                         </div>
                     </li>
-                    <li id="new"><a href="../news/index.html">新闻中心</a>
+                    <li class="current" id="new"><a href="../news/index.html">新闻中心</a>
                         <div class="down_nav">
                             <dl>
                                 <dd><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></dd>
