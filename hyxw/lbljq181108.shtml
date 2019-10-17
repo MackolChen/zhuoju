@@ -114,7 +114,7 @@ var _hmt = _hmt || [];
                         </dl>
                     </div>
                 </li>
-                <li id="ser"><a href="../service/index.html">联系我们</a>
+                <li id="ser"><a href="../contact.shtml">联系我们</a>
                 </li>
             </ul>
         </div>
@@ -243,128 +243,109 @@ M12连接器的应用范围是很广泛的，主要用于户外广告灯箱、�
             </div>
         </div>
     </div>
-    <div class="index">
-        <div class="index_cont">
-            <ul>
-                <li class="first"><a href="../about.shtml">关于我们</a></li>
-                <li><a href="../about.shtml" title="公司简介">公司简介</a></li>
-				<li><a href="../value.shtml" title="我们的价值">我们的价值</a></li>
-				<li><a href="../sndjt.shtml" title="索能达集团">索能达集团</a></li>
-				<li><a href="../jtxw.shtml" title="集团行为规范及合规准则">集团行为规范及合规准则</a></li>
-				<li><a href="../jtjbcx.shtml" title="集团举报程序">集团举报程序</a></li>
-				<li><a href="../develop.shtml" title="可持续发展">可持续发展</a></li>
-				<li><a href="../contact.shtml" title="联系我们">联系我们</a></li>
-				
-                <li><a href="../recruitment/index.html">人才招聘</a></li>
-                <li><a href="../partner/index.html">我们的合作伙伴</a></li>
-            </ul>
-            <ul>
-                <li class="first"><a href="../product/index.html">产品中心</a></li>
-                <li><a href="../dxdl/index.html" title="电线电缆">电线电缆</a></li>
-				<li><a href="../gefh/index.html" title="个人防护">个人防护</a></li>
-				<li><a href="../gyljq/index.html" title="工业连接器">工业连接器</a></li>
-				<li><a href="../rxcp/index.html" title="热销产品">热销产品</a></li>
-				
-            </ul>
-            <ul>
-                <li class="first"><a href="../display/index.html">行业应用</a></li>
-                <li class="a_2"><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
-				<li class="a_2"><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></li>
-				<li class="a_2"><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
-				<li class="a_2"><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></li>
-				<li class="a_2"><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
-				<li class="a_2"><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
-				<li class="a_2"><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
-				<li class="a_2"><a href="../display/xny.shtml" title="新能源">新能源</a></li>
-				
-            </ul>
-            <ul>
-                <li class="first"><a href="../service/index.html">客户服务</a></li>
-                <li><a href="../service/index.html" title="服务优势">服务优势</a></li>
-            <li><a href="../download/index.html" title="下载中心">下载中心</a></li>
-            
-            </ul>
-            <ul>
-                <li class="first"><a href="../news/index.html">新闻中心</a></li>
-                <li><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></li>
-				<li><a href="index.html" title="行业新闻">行业新闻</a></li>
-				
-            </ul>
-            <ul class="last">
-                <li class="first"><a href="../contact.shtml">联系我们</a></li>
-                <li>
-	<a href="http://www.sonepar.com/" target="_blank">索能达集团</a> 
-</li>
-<li>
-	<a href="http://www.sonepar.com.cn/" target="_blank">索能达中国</a> 
-</li>
+        <div class="index">
+            <div class="index_cont">
+                <ul>
+                    <li class="first"><a href="../about.shtml">关于我们</a></li>
+                    <li><a href="../about.shtml" title="公司简介">公司简介</a></li>
+                    <li><a href="../value.shtml" title="我们的价值">我们的价值</a></li>
+                    <li><a href="../contact.shtml" title="联系我们">联系我们</a></li>
+                    
+                    <li><a href="../recruitment/index.html">人才招聘</a></li>
+                    <li><a href="../partner/index.html">我们的合作伙伴</a></li>
+                </ul>
+                <ul>
+                    <li class="first"><a href="../product/index.html">产品中心</a></li>
+                    <li><a href="../dxdl/index.html" title="电线电缆">电线电缆</a></li>
+                    <li><a href="../rxcp/index.html" title="热销产品">热销产品</a></li>
+                    
+                </ul>
+                <ul>
+                    <li class="first"><a href="../display/index.html">行业应用</a></li>
+                    <li class="a_2"><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></li>
+                    <li class="a_2"><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></li>
+                    <li class="a_2"><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></li>
+                    <li class="a_2"><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></li>
+                    <li class="a_2"><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></li>
+                    <li class="a_2"><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></li>
+                    <li class="a_2"><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></li>
+                    <li class="a_2"><a href="../display/xny.shtml" title="新能源">新能源</a></li>
+                    
+                </ul>
+                <ul>
+                    <li class="first"><a href="../news/index.html">新闻中心</a></li>
+                    <li><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></li>
+                    <li><a href="index.html" title="行业新闻">行业新闻</a></li>
+                    
+                </ul>
+                <ul class="last">
+                    <li class="first"><a href="../contact.shtml">联系我们</a></li>
+                    <li>
+                </ul>
+                <span style="position: absolute; right: 0px; bottom: 0px;">
+                    
 
-            </ul>
-            <span style="position: absolute; right: 0px; bottom: 0px;">
-                
-
-            </span>
+                </span>
+            </div>
         </div>
-    </div>
-    <div class="foot">
-        <div class="foot_cont">
-            <p class="fl">
-	热流电气是索能达集团的全资子公司，旨在为经销商合作伙伴提供全面的线缆和连接器、安全防护等电气产品服务。比如<b>工业总线电缆</b>、<a href="../baitongdianlan.shtml" target="_blank">百通电缆</a>、<b><a href="../naikesendianlan.shtml" target="_blank">耐克森电缆</a></b>、<b><a href="../hesimanljq.shtml" target="_blank">赫斯曼连接器</a></b>、和柔电缆、<b><a href="../index.html" target="_blank">隆堡连接器</a></b>、拖链电缆、<b><a title="变频电缆" href="../dqsb/index.html">变频电缆</a></b>、柔性电缆、<a title="机器人电缆" href="../dqsb/index.html">机器人电缆</a>、<b><a href="../dqsb/rldq10148.shtml" target="_blank">伺服电缆</a></b>、高温电缆、<strong>达克泰生命线</strong>、<strong>达克泰轨道系统</strong>。
-</p>
-<p style="text-align:left;" class="fr">
-	友情链接：<a href="https://www.dir001.com/" target="_blank"><strong>第一</strong><strong>分类目录</strong></a>&nbsp; &nbsp; &nbsp;&nbsp;<strong><a href="http://www.lindstromgroup.cn/" target="_blank">阻燃服</a></strong>
-</p>
-<p style="text-align:left;" class="fr">
-	<br />
-</p>
-<p class="fl">
-	Copyright@2003-2014 热流电气有限公司 All rights reserved.
-</p>
-<p class="fl">
-	<br />
-</p>
-<p class="fl">
-	<br />
-</p>
-<p style="text-align:right;" class="fr">
-	<a href="../terms.shtml">使用条款</a> <span>|</span> <a href="../policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
-</p>
-<p style="text-align:right;" class="fr">
-	<br />
-</p>
-<p style="text-align:left;" class="fr">
-	<br />
-</p>
-<p style="text-align:left;" class="fr">
-	<br />
-</p>
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?9460c0f6d118ef37856c369720e47844";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254130319'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254130319%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
-<script>
-(function(){
-    var bp = document.createElement('script');
-    var curProtocol = window.location.protocol.split(':')[0];
-    if (curProtocol === 'https') {
-        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-    }
-    else {
-        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-    }
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(bp, s);
-})();
-</script>
-
+        <div class="foot">
+                <div class="foot_cont">
+                    <p class="fl">
+                        卓举是BELDEN、HIRSCHMANN、LUMBERG、Lapp、Alpha的授权代理商，并经销General Cable、Helukabel、HUBER+SUHNER、<a href="https://www.iewc.com" target="_blank">Hitachi Cable</a>、<a href="https://www.iewc.com" translate="_blank">LUTZE</a>、<a href="https://www.iewc.com/brands/nexans" target="_blank">Nexans</a>、Northwire、Panduit、Prysmian、SAB North America、TE Wire & Cable、Thermax、Thomas & Betts、Hubbell Canada、Aerospace Wire & Cable等国际品牌。这些代理的产品已完整配套应用于世界各地的汽车制造、机械设备、食品饮料、电力、油气、交通、通讯、矿山、制药医疗、楼宇自动化等诸多自动化领域。
+                    </p>
+                    <p style="text-align:left;" class="fr">
+                        友情链接：<a href="https://www.dir001.com/" target="_blank"><strong>第一</strong><strong>分类目录</strong></a>&nbsp; &nbsp; &nbsp;&nbsp;<strong><a href="http://www.lindstromgroup.cn/" target="_blank">阻燃服</a></strong>
+                    </p>
+                    <p style="text-align:left;" class="fr">
+                        <br />
+                    </p>
+                    <p class="fl">
+                        Copyright@2003-2014 上海卓举信息技术有限公司 All rights reserved.
+                    </p>
+                    <p class="fl">
+                        <br />
+                    </p>
+                    <p class="fl">
+                        <br />
+                    </p>
+                    <p style="text-align:right;" class="fr">
+                        <a href="terms.shtml">使用条款</a> <span>|</span> <a href="policy.shtml">隐私权政策</a> <span>&nbsp;</span> 沪ICP备14001860号—1
+                    </p>
+                    <p style="text-align:right;" class="fr">
+                        <br />
+                    </p>
+                    <p style="text-align:left;" class="fr">
+                        <br />
+                    </p>
+                    <p style="text-align:left;" class="fr">
+                        <br />
+                    </p>
+                    <script>
+                        var _hmt = _hmt || [];
+                        (function() {
+                            var hm = document.createElement("script");
+                            hm.src = "//hm.baidu.com/hm.js?9460c0f6d118ef37856c369720e47844";
+                            var s = document.getElementsByTagName("script")[0]; 
+                            s.parentNode.insertBefore(hm, s);
+                        })();
+                    </script>
+                    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254130319'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254130319%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
+                    <script>
+                        (function(){
+                            var bp = document.createElement('script');
+                            var curProtocol = window.location.protocol.split(':')[0];
+                            if (curProtocol === 'https') {
+                                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                            }
+                            else {
+                                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                            }
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(bp, s);
+                        })();
+                    </script>
+                </div>
         </div>
-    </div>
 </body>
 </html>
 
