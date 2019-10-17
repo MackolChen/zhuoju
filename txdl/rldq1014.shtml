@@ -9,20 +9,20 @@
          本公司自成立以来，拥有一批精通本行业业务的技术专家、产品营销和渠道管理人员，以完善的物流体系、专业的技术方案。为客户提供工业控制电缆、广电音视频电缆、通信电缆光缆与智能综合布线等具体项目的方案设计、电缆光缆选型等服务。并先后同Sumsang、Hynix、HuaWei、GM、CNOOC、FIBERHOME FUJIKURA等公司建立了良好的合作关系 
           我们力求为客户提供优质的产品和实用的解决方案，以及高效细致的售后服务。     
            我们凭借诚信的服务宗旨、高效的响应能力、前瞻的市场远见，赢得了客户持久信赖。" />
-        <link type="text/css" href="images/icon.ico" rel="shortcut icon" />
-        <link type="text/css" href="css/base.css" rel="stylesheet" />
-        <link type="text/css" href="css/page.css" rel="stylesheet" />
+        <link type="text/css" href="../images/icon.ico" rel="shortcut icon" />
+        <link type="text/css" href="../css/base.css" rel="stylesheet" />
+        <link type="text/css" href="../css/page.css" rel="stylesheet" />
         <!--[if ie]>
     <script src="/js/html5.js"></script>
     <![endif]-->
     
-        <script src="js/jquery-1.8.3.min.js"></script>
+        <script src="../js/jquery-1.8.3.min.js"></script>
     
-        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="../js/main.js"></script>
     
-        <script src="js/jquery.LoadImage.js" type="text/javascript"></script>
+        <script src="../js/jquery.LoadImage.js" type="text/javascript"></script>
     
-        <script src="js/sousuo.js" type="text/javascript"></script>
+        <script src="../js/sousuo.js" type="text/javascript"></script>
     <!-- <script>
     var _hmt = _hmt || [];
     (function() {
@@ -34,216 +34,201 @@
     </script> -->
     <!-- <meta name="baidu-site-verification" content="WmR4mxu43p" /> -->
     </head>
-<body>
-    <div class="head clearfix">
-        <div class="head_cont clearfix">
-            <div class="logo">
-                <a href="index.html">
-                    <img src="UpLoadFile/20181210/7399758d-09c4-42f8-845f-e7275ce5968e.png" alt="" />
-
-                </a>
-            </div>
-            <p class="top_r">
-	        <a href="https://www.iewc.com" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="sitemap.shtml">网站地图</a> <span>|</span> <a href="contact.shtml">联系我们</a> 
-            </p>
-
-            <div class="top_ss">
-                <input type="text" class="ss_txt" value="请输入搜索关键字" />
-                <input type="button" value="" class="ss_btn" />
-            </div>
-        </div>
-        <div class="nav">
-            <div class="nav_cur">
-                <div class="dq_nav">
+    <body>
+        <div class="head clearfix">
+            <div class="head_cont clearfix">
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="../UpLoadFile/20181210/7399758d-09c4-42f8-845f-e7275ce5968e.png" alt="" />
+    
+                    </a>
+                </div>
+                <p class="top_r">
+                <a href="https://www.iewc.com" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="../sitemap.shtml">网站地图</a> <span>|</span> <a href="../contact.shtml">联系我们</a> 
+                </p>
+    
+                <div class="top_ss">
+                    <input type="text" class="ss_txt" value="请输入搜索关键字" />
+                    <input type="button" value="" class="ss_btn" />
                 </div>
             </div>
-            <ul>
-                <li><a href="index.html">首页</a></li>
-                <li class="current"><a href="about.shtml">关于我们</a>
-                    <div class="down_nav">
-                        <dl>
-                            <dd><a href="about.shtml" title="公司简介">公司简介</a></dd>
-				            <dd><a href="value.shtml" title="我们的价值">我们的价值</a></dd>
-				            <dd><a href="contact.shtml" title="联系我们">联系我们</a></dd>
-                            <dd><a href="recruitment/index.html">人才招聘</a></dd>
-                            <dd><a href="partner/index.html">我们的合作伙伴</a></dd>
-                        </dl>
+            <div class="nav">
+                <div class="nav_cur">
+                    <div class="dq_nav">
                     </div>
-                </li>
-                <li><a href="product/index.html">产品中心</a>
-                    <div class="down_nav">
-                        <dl>
-                           <dd><a title="电线电缆" href="dxdl/index.html" style="font-weight: bold;">电线电缆</a>
-                                <p><a href="txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
-                                <p><a href="gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
-                                <p><a href="dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
-                            </dd>
-                           <dd><a title="热销产品" href="rxcp/index.html" style="font-weight: bold;">热销产品</a>
-                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
-                             </dd>
-                        </dl>
-                    </div>
-                </li>
-                <li id="dj"><a href="display/index.html">行业应用</a>
-                    <div class="down_nav">
-                        <dl>
-                            <dd><a href="display/gyzdh.shtml" title="工业自动化">工业自动化</a></dd>
-				            <dd><a href="display/jxzz.shtml" title="机械制造">机械制造</a></dd>
-				            <dd><a href="display/syshly.shtml" title="石油石化领域">石油石化领域</a></dd>
-				            <dd><a href="display/qczz.shtml" title="汽车制造">汽车制造</a></dd>
-				            <dd><a href="display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></dd>
-				            <dd><a href="display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></dd>
-				            <dd><a href="display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></dd>
-				            <dd><a href="display/xny.shtml" title="新能源">新能源</a></dd>
-                        </dl>
-                    </div>
-                </li>
-                <li id="new"><a href="news/index.html">新闻中心</a>
-                    <div class="down_nav">
-                        <dl>
-                            <dd><a href="gsxw/index.html" title="公司新闻">公司新闻</a></dd>
-				            <dd><a href="hyxw/index.html" title="行业新闻">行业新闻</a></dd>
-                        </dl>
-                    </div>
-                </li>
-                <li id="ser"><a href="contact.shtml">联系我们</a>
-                </li>
-            </ul>
+                </div>
+                <ul>
+                    <li><a href="../index.html">首页</a></li>
+                    <li><a href="../about.shtml">关于我们</a>
+                        <div class="down_nav">
+                            <dl>
+                                <dd><a href="../about.shtml" title="公司简介">公司简介</a></dd>
+                                <dd><a href="../value.shtml" title="我们的价值">我们的价值</a></dd>
+                                <dd><a href="../contact.shtml" title="联系我们">联系我们</a></dd>
+                                <dd><a href="../recruitment/index.html">人才招聘</a></dd>
+                                <dd><a href="../partner/index.html">我们的合作伙伴</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li class="current"><a href="../product/index.html">产品中心</a>
+                        <div class="down_nav">
+                            <dl>
+                               <dd><a title="电线电缆" href="../dxdl/index.html" style="font-weight: bold;">电线电缆</a>
+                                    <p><a href="../txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
+                                    <p><a href="../gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
+                                    <p><a href="../dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
+                                </dd>
+                               <dd><a title="热销产品" href="../rxcp/index.html" style="font-weight: bold;">热销产品</a>
+                                      <EmptyTemplate>暂无子分类</EmptyTemplate>
+                                 </dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li id="dj"><a href="../display/index.html">行业应用</a>
+                        <div class="down_nav">
+                            <dl>
+                                <dd><a href="../display/gyzdh.shtml" title="工业自动化">工业自动化</a></dd>
+                                <dd><a href="../display/jxzz.shtml" title="机械制造">机械制造</a></dd>
+                                <dd><a href="../display/syshly.shtml" title="石油石化领域">石油石化领域</a></dd>
+                                <dd><a href="../display/qczz.shtml" title="汽车制造">汽车制造</a></dd>
+                                <dd><a href="../display/jcgdjt.shtml" title="机车/轨道交通">机车/轨道交通</a></dd>
+                                <dd><a href="../display/mkgkjx.shtml" title="煤矿及港口机械">煤矿及港口机械</a></dd>
+                                <dd><a href="../display/jcsbly.shtml" title="基础设施建设领域">基础设施建设领域</a></dd>
+                                <dd><a href="../display/xny.shtml" title="新能源">新能源</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li id="new"><a href="../news/index.html">新闻中心</a>
+                        <div class="down_nav">
+                            <dl>
+                                <dd><a href="../gsxw/index.html" title="公司新闻">公司新闻</a></dd>
+                                <dd><a href="../hyxw/index.html" title="行业新闻">行业新闻</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li id="ser"><a href="../contact.shtml">联系我们</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </div>
     <div class="ban">
         <ul>
             <li>
-                <img src="images/ban_about.jpg" width="1440" height="305" alt="" /></li>
+                <img src="../images/ban_pro01.jpg" width="1440" height="305" alt="" /></li>
+            <li>
+                <img src="../images/ban_pro02.jpg" width="1440" height="305" alt="" /></li>
         </ul>
     </div>
     <div class="content clearfix">
         <div class="left_cont">
-            <div class="left_bt">
-                关于我们</div>
-            <div class="left_nav">
+            <div id="pro2" class="left_bt">
+                产品中心</div>
+            <div class="left_menu">
                 <ul>
-                    <li gl="6"><a href="about.shtml" title="公司简介">公司简介</a></li>
-				<li gl="5"><a href="value.shtml" title="我们的价值">我们的价值</a></li>
-				<li gl="2"><a href="contact.shtml" title="联系我们">联系我们</a></li>
+                    
+                           <li><a href="../dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
+						<div class="left_down" >
+                                  
+                                        <p><a href="index.html" title="通讯电缆" gl="13">通讯电缆</a></p>
+                                    
+                                        <p><a href="../gl/index.html" title="光缆" gl="12">光缆</a></p>
+                                    
+                                        <p><a href="../dqsb/index.html" title="电气设备电缆" gl="11">电气设备电缆</a></p>
+                                    
+                           </div></li>
+                          
+                           <li><a href="../rxcp/index.html" title="热销产品" class="n_bg">热销产品</a>
+						<div class="left_down" >
+                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
+                           </div></li>
+                          
+                </ul>
+            </div>
+            <div class="left_news">
+                <div class="left_bt">
+                    <a href="../News/index.html">更多>></a>相关新闻</div>
+                <ul>
+                    <li><a href="../hyxw/txdl19529.shtml" title="要说拖链电缆如何选购？这样做是最好的">要说拖链电缆如何选购？这样做是最好的</a></li>
+				<li><a href="../hyxw/rxdl19528.shtml" title="说一说柔性电缆的分类以及它的安装要求">说一说柔性电缆的分类以及它的安装要求</a></li>
+				<li><a href="../news/lbzxmk19527.shtml" title="隆堡Lumberg总线模块结构以及特点有哪些？">隆堡Lumberg总线模块结构以及特点有哪些？</a></li>
+				<li><a href="../news/lbljq19524.shtml" title="隆堡Lumberg M12连接器的应用领域与发展前景">隆堡Lumberg M12连接器的应用领域与发展前景</a></li>
+				<li><a href="../hyxw/dktgdxt19523.shtml" title="达克泰轨道系统，为安全上了保险让作业更加自由">达克泰轨道系统，为安全上了保险让作业更加自由</a></li>
 				
-                    <li><a href="recruitment/index.html">人才招聘</a></li>
-                    <li><a href="partner/index.html">我们的合作伙伴</a></li>
                 </ul>
             </div>
         </div>
         <div class="right_cont">
             <div class="right_bt">
                 <h2 class="fl">
-                    联系我们</h2>
+                    工业总线</h2>
                 <p class="fr">
-                    <span>Your current location :</span><a href="index.html">Home</a><span>|</span><a href="about.shtml">About
-                        us</a><span>|</span>联系我们</p>
+                    <span>您当前位置:</span><a href="../index.html">首页</a><span>|</span><a href="../product/index.html">产品中心</a><span>|</span>
+                    <a href="../product/index.html" title="通信电缆">通信电缆</a><span>|</span>工业总线</p>
             </div>
             <div class="cont">
-                <div class="clearfix">
-                    <div style="padding-top:5px;" class="lx_txt">
-	<p class="ptit">
-		<b>上海卓举信息技术有限公司</b> 
-	</p>
-	<p>
-		地址：中国上海市闵行区工业园区
-	</p>
-	<p>
-		邮编：201 108
-	</p>
-	<p>
-		电话：021-22302542
-	</p>
-	<p>
-		传真：021‐60196969
-	</p>
-	<p>
-		邮箱：<a href="mailto:info@electricfever.cn">info@electricfever.cn</a> 
-	</p>
-	<p>
-		索能达集团信息：<a style="color:#1e64cc;text-decoration:underline;" href="http://www.sonepar.com" target="_blank">www.sonepar.com</a>; <a style="color:#1e64cc;text-decoration:underline;" href="http://www.sonepar.com.cn" target="_blank">www.sonepar.com.cn</a> 
-	</p>
+                <p>
+	　　现场总线是指安装在制造或过程区域的现场装置与控制室内的自动装置之间的数字式、串行、多点通信的数据总线。它是一种工业数据总线，是自动化领域中底层数据通信网络。也就是将传感器、各种操作终端和控制器间的通讯及控制器之间的通讯进行特化的网络。现场总线主要应用于石油、化工、电力、医药、冶金、加工制造、交通运输、国防、航天、农业和楼宇等领域。主要产品有：Profibus，Foundation field bus, Canbus，Interbus, controlNet及DeviceNet，CC-link，ASI，Modbus等。
+</p>
+<center>
+	&nbsp;<img alt="工业总线" src="../UpLoadFile/20141031/52caf9fe-1525-494c-8782-0e0922d03612.jpg" /> 
+</center>
+<p>
+	　　<strong>产品优势</strong> 
+</p>
+<p>
+	　　· 热流电气代理的品牌中，百通专利的Z-Fold技术，增加了产品的有效屏蔽范围，减少串扰；
+</p>
+<p>
+	　　· 多种研发电缆材料，可满足CM、CMR、CMP多种阻燃等级的要求；
+</p>
+<p>
+	　　· 针对不同柔性要求，可以提供固定场合及不同拖链等级场合的柔性电缆；
+</p>
+<p>
+	　　· 产品多样，对于某些特殊的场合，可以提供特种的产品。例如，无卤，耐磨，那机械损伤，抗扭转等；
+</p>
+<p>
+	　　·可以提供根据用户特殊定制混合电缆。
+</p>
+<div>
 </div>
-<div class="lx_img">
-	<img src="images/lx.png" /> 
+<div class="fenbu mb25">
+	<ul>
+		<li>
+			<a href="../prodetail.shtml">Profibus DP</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">profibus PA</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">DeviceNet</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">ControlNet</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">Foundation fieldbus</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">CC-Link</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">Hart/Canbus/RS485</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">DH/DH+/Remote I/O</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">RS232</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">Modbus</a> 
+		</li>
+		<li>
+			<a href="../prodetail.shtml">Interbus</a> 
+		</li>
+	</ul>
 </div>
-                </div>
-                <br />
-                <br />
-                <div class="contact">
-                    <p class="lyp">
-                        在线留言</p>
-                    <p style="background: #f6f6f6; padding: 15px 20px;">
-                        不要犹豫，马上联系我们，我们将迅速给予反馈。热流电气将竭力维护您所提供任何信息的机密性。</p>
-                    <br />
-                    <table class="lx_tab" style="margin-left: 20px;" cellpadding="0" cellspacing="0">
-                        <tbody>
-                            <tr>
-                                <td class="dq">
-                                    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;姓名:
-                                </td>
-                                <td>
-                                    <input name="txt_First_Name" id="txt_First_Name" class="c_txt" type="text">
-                                </td>
-                                <td>
-                                    <em>*</em>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="dq">
-                                    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;邮箱:
-                                </td>
-                                <td>
-                                    <input name="txt_Email" id="txt_Email" class="c_txt" type="text">
-                                </td>
-                                <td>
-                                    <em>*</em>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="dq">
-                                    联系电话:
-                                </td>
-                                <td>
-                                    <input name="txt_Country" id="txt_Country" class="c_txt" type="text">
-                                </td>
-                                <td>
-                                    <em>*</em>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="dq">
-                                    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;城市:
-                                </td>
-                                <td>
-                                    <input name="txt_City" id="txt_City" class="c_txt" type="text">
-                                </td>
-                                <td>
-                                    <em></em>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="dq" style="vertical-align: top;">
-                                    留言内容:
-                                </td>
-                                <td>
-                                    <textarea name="txt_Content" id="txt_Content"></textarea>
-                                </td>
-                                <td style="vertical-align: top;">
-                                    <em></em>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                </td>
-                                <td>
-                                    <input name="ctl10" value="提 交" class="lx_btn" type="submit">
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
             </div>
         </div>
     </div>
@@ -351,7 +336,7 @@
 </html>
 
 <script type="text/javascript">
-    $("li[gl=2]").addClass("current");
+    $("a[gl=13]").css("color", "#1E64CC").parent().parent().css("display", "block");
 </script><script type="text/javascript">
 function autoAddEllipsis(pStr, pLen) {
     var _ret = cutString(pStr, pLen);
@@ -416,7 +401,7 @@ function isFull(pChar) {
      });
 });
 </script>
-<script src="QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
+<script src="../QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
 var _zyat = _zyat || [];
 _zyat.push(['trackPageView']);
 _zyat.push(['enableLinkTracking']);
