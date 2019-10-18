@@ -4,7 +4,7 @@
             alert("请输入关键字");
             return false;
         } else {
-            window.location.href = "/prosearch.shtml?keyword=" + escape($.trim($(".ss_txt").val()));
+            // window.location.href = "prosearch.shtml?keyword=" + escape($.trim($(".ss_txt").val()));
         }
     });
     $(".ss_txt").keydown(function(event) {

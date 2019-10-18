@@ -274,7 +274,7 @@ body {
     text-align: center;
     line-height: 75px;
     background: url("../images/dd.png") no-repeat left center;
-    display: inline-block;
+	display: inline-block;
     float: left;
     margin-right: 90px;
 }
@@ -1163,8 +1163,7 @@ body {
 }
 
 .ef {
-    width: 755px;
-    height: 629px;
+    width: 755px;    
     position: relative;
 }
 

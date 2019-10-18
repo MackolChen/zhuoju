@@ -113,8 +113,8 @@ body {
 a {
     text-decoration: none;
     outline: none;
-    blr: expression(this.onFocus=this.blur());
     color: #606060;
+    /* blr: expression(this.onFocus=this.blur()); */
 }
 
 a:hover {
