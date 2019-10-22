@@ -76,9 +76,9 @@
                     <div class="down_nav">
                         <dl>
                             <dd><a title="电线电缆" href="dxdl/index.html" style="font-weight: bold;">电线电缆</a>
-                                <p><a href="txdl/index.html" title="通讯电缆"><em>+</em> 通讯电缆</a></p>
-                                <p><a href="gl/index.html" title="光缆"><em>+</em> 光缆</a></p>
-                                <p><a href="dqsb/index.html" title="电气设备电缆"><em>+</em> 电气设备电缆</a></p>
+                                <p><a href="txdl/index.html" title="通讯电缆"> 通讯电缆</a></p>
+                                <p><a href="gl/index.html" title="光缆">光缆</a></p>
+                                <p><a href="dqsb/index.html" title="电气设备电缆">电气设备电缆</a></p>
                             </dd>
                             <dd><a title="热销产品" href="rxcp/index.html" style="font-weight: bold;">热销产品</a>
                                 <EmptyTemplate>暂无子分类</EmptyTemplate>

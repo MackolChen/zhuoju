@@ -321,7 +321,7 @@ Beldfoil® shielded plus tinned copper braid, overall PVC jacket.
 </html>
 
 <script type="text/javascript">
-    $("a[gl=31]").css("color", "#1E64CC").parent().parent().css("display", "block");
+    $("a[gl=31]").css("color", "#4690dc").parent().parent().css("display", "block");
 </script><script type="text/javascript">
 function autoAddEllipsis(pStr, pLen) {
     var _ret = cutString(pStr, pLen);

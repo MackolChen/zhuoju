@@ -430,7 +430,7 @@
 </html>
 
 <script type="text/javascript">
-    $("a[gl=13]").css("color", "#1E64CC").parent().parent().css("display", "block");
+    $("a[gl=13]").css("color", "#4690dc").parent().parent().css("display", "block");
     $("a[gll=13]").next().css("display", "block");
     $(".imgpro").LoadImage(true, 154, 142, "/UpLoadFile/loading.gif");
 </script>

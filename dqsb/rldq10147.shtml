@@ -308,7 +308,7 @@
 </html>
 
 <script type="text/javascript">
-    $("a[gl=11]").css("color", "#1E64CC").parent().parent().css("display", "block");
+    $("a[gl=11]").css("color", "#4690dc").parent().parent().css("display", "block");
 </script>
 <script type="text/javascript">
     function autoAddEllipsis(pStr, pLen) {
