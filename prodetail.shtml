@@ -46,7 +46,7 @@
                 </a>
             </div>
             <p class="top_r">
-                <a href="https://www.iewc.com" target="_blank">集团网站</a> <span>|</span> <a class="sitemap" href="sitemap.shtml">网站地图</a> <span>|</span> <a href="contact.shtml">联系我们</a>
+                <a class="sitemap" href="sitemap.shtml">网站地图</a> <span>|</span> <a href="contact.shtml">联系我们</a>
             </p>
 
             <div class="top_ss">
