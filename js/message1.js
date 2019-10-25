@@ -69,7 +69,7 @@
 
         $.ajax({
             type: "POST",
-            url: "/AjaxFile/OnLineMessage.ashx",
+            url: "http://127.0.0.1/index.php",
             data: {
                 FullName: $.trim($("#txt_First_Name").val()),
                 Tel: $.trim($("#txt_Country").val()),
