@@ -108,13 +108,7 @@
                         </dl>
                     </div>
                 </li>
-                <li id="ser"><a href="service/index.html">联系我们</a>
-                    <div class="down_nav">
-                        <dl>
-                            <dd><a href="service/index.html" title="服务优势">服务优势</a></dd>
-                            <dd><a href="download/index.html" title="下载中心">下载中心</a></dd>
-                        </dl>
-                    </div>
+                <li id="ser"><a href="contact.shtml">联系我们</a>
                 </li>
             </ul>
         </div>

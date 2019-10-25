@@ -61,7 +61,7 @@
             </div>
             <ul>
                 <li><a href="index.html">首页</a></li>
-                <li class="current"><a href="about.shtml">关于我们</a>
+                <li><a href="about.shtml">关于我们</a>
                     <div class="down_nav">
                         <dl>
                             <dd><a href="about.shtml" title="公司简介">公司简介</a></dd>
@@ -108,7 +108,7 @@
                         </dl>
                     </div>
                 </li>
-                <li id="ser"><a href="contact.shtml">联系我们</a>
+                <li class="current" id="ser"><a href="contact.shtml">联系我们</a>
                 </li>
             </ul>
         </div>

@@ -127,69 +127,25 @@ var _hmt = _hmt || [];
                 产品中心</div>
             <div class="left_menu">
                 <ul>
-                    
-                           <li><a href="../dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
-						<div class="left_down" >
-                                  
-                                        <p><a href="../txdl/index.html" title="通讯电缆">通讯电缆</a></p>
-                                    
-                                        <p><a href="../gl/index.html" title="光缆">光缆</a></p>
-                                    
-                                        <p><a href="../dqsb/index.html" title="电气设备电缆">电气设备电缆</a></p>
-                                    
-                                        <p><a href="../tzdl/index.html" title="特种电缆">特种电缆</a></p>
-                                    
-                                        <p><a href="../dldl/index.html" title="电力电缆">电力电缆</a></p>
-                                    
-                                        <p><a href="../bxs/index.html" title="熔断器">熔断器</a></p>
-                                    
-                                        <p><a href="../xcqj/index.html" title="线槽与桥架">线槽与桥架</a></p>
-                                    
-                           </div></li>
-                          
-                           <li><a href="../gefh/index.html" title="个人防护" class="n_bg">个人防护</a>
-						<div class="left_down" >
-                                  
-                                        <p><a href="../tbfh/index.html" title="头面听防护">头面听防护</a></p>
-                                    
-                                        <p><a href="../hxfh/index.html" title="呼吸防护">呼吸防护</a></p>
-                                    
-                                        <p><a href="../grfh/index.html" title="手部防护">手部防护</a></p>
-                                    
-                                        <p><a href="../zbhl/index.html" title="足部防护">足部防护</a></p>
-                                    
-                                        <p><a href="../stfh/index.html" title="身体防护">身体防护</a></p>
-                                    
-                                        <p><a href="../zlfh181113/index.html" title="坠落防护">坠落防护</a></p>
-                                    
-                                        <p><a href="../fwypx/index.html" title="服务与培训">服务与培训</a></p>
-                                    
-                                        <p><a href="../hyjjfa/index.html" title="行业解决方案">行业解决方案</a></p>
-                                    
-                           </div></li>
-                          
-                           <li><a href="../gyljq/index.html" title="工业连接器" class="n_bg">工业连接器</a>
-						<div class="left_down" >
-                                  
-                                        <p><a href="../gyljq181123/index.html" title="工业链接器  connector">工业链接器  connector</a></p>
-                                    
-                                        <p><a href="../jxljq181113/index.html" title="矩形连接器">矩形连接器</a></p>
-                                    
-                                        <p><a href="../yxljq181113/index.html" title="圆形连接器">圆形连接器</a></p>
-                                    
-                                        <p><a href="../zxq181113/index.html" title="执行器/传感器分线盒">执行器/传感器分线盒</a></p>
-                                    
-                                        <p><a href="../LLXT181113/index.html" title="LioN-Link 模块化I/O系统">LioN-Link 模块化I/O系统</a></p>
-                                    
-                                        <p><a href="../jcxmk/index.html" title="紧凑型I/O模块">紧凑型I/O模块</a></p>
-                                    
-                           </div></li>
-                          
-                           <li><a href="../rxcp/index.html" title="热销产品" class="n_bg">热销产品</a>
-						<div class="left_down" >
-                                  <EmptyTemplate>暂无子分类</EmptyTemplate>
-                           </div></li>
-                          
+
+                    <li><a href="../dxdl/index.html" title="电线电缆" class="n_bg">电线电缆</a>
+                        <div class="left_down">
+
+                            <p><a href="../txdl/index.html" title="通讯电缆">通讯电缆</a></p>
+
+                            <p><a href="../gl/index.html" title="光缆">光缆</a></p>
+
+                            <p><a href="../dqsb/index.html" title="电气设备电缆">电气设备电缆</a></p>
+
+                        </div>
+                    </li>
+
+                    <li><a href="../rxcp/index.html" title="热销产品" class="n_bg">热销产品</a>
+                        <div class="left_down">
+                            <EmptyTemplate>暂无子分类</EmptyTemplate>
+                        </div>
+                    </li>
+
                 </ul>
             </div>
         </div>
@@ -284,9 +240,9 @@ var _hmt = _hmt || [];
                 <div class="pages">
                     <div class="page" id="pgServer">
                         
-				<a href="news_2.shtml"><img src="../images/s.png" /></a>
-				...<span href="news_3.shtml" class="cpb">3</span><a href="news_4.shtml" >4</a><a href="news_5.shtml" >5</a><a href="news_6.shtml" >6</a><a href="news_7.shtml" >7</a><a href="news_8.shtml" >8</a><a href="news_9.shtml" >9</a><a href="news_10.shtml" >10</a><a href="news_11.shtml" >11</a><a href="news_12.shtml" >12</a>...
-				<a href="news_4.shtml"><img src="../images/x.png" /></a>
+				<!-- <a href="news_2.shtml"><img src="../images/s.png" /></a> -->
+                <a href="index.html">1</a><a href="news_2.shtml">2</a><span href="./" class="cpb">3</span><a href="news_4.shtml">4</a><a href="news_5.shtml">5</a><a href="news_6.shtml">6</a><a href="news_7.shtml">7</a>
+				<!-- <a href="news_4.shtml"><img src="../images/x.png" /></a> -->
 				
                     </div>
                 </div>
