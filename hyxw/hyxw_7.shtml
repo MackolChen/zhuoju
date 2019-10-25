@@ -250,9 +250,8 @@ var _hmt = _hmt || [];
                 <div class="pages">
                     <div class="page" id="pgServer">
                         
-				<a href="hyxw_6.shtml"><img src="../images/s.png" /></a>
-				...<span href="hyxw_7.shtml" class="cpb">7</span><a href="hyxw_8.shtml" >8</a><a href="hyxw_9.shtml" >9</a><a href="hyxw_10.shtml" >10</a><a href="hyxw_11.shtml" >11</a><a href="hyxw_12.shtml" >12</a><a href="hyxw_13.shtml" >13</a><a href="hyxw_14.shtml" >14</a><a href="hyxw_15.shtml" >15</a><a href="hyxw_16.shtml" >16</a>...
-				<a href="hyxw_8.shtml"><img src="../images/x.png" /></a>
+				<!-- <a href="hyxw_6.shtml"><img src="../images/s.png" /></a> -->
+				<a href="index.html" >1</a><a href="hyxw_2.shtml" >2</a><a href="hyxw_3.shtml" >3</a><a href="hyxw_4.shtml" >4</a><a href="hyxw_5.shtml" >5</a><a href="hyxw_6.shtml" >6</a><span href="./" class="cpb">7</span>				<!-- <a href="hyxw_8.shtml"><img src="../images/x.png" /></a> -->
 				
                     </div>
                 </div>
