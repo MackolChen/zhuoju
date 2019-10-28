@@ -9,7 +9,8 @@ body {
 .head {
     position: relative;
     width: 100%;
-    background: url("../images/top_bg.png") no-repeat right top;
+    background-size: 100%;
+    background: url("../images/top_bg.png") no-repeat top;
     z-index: 1000;
 }
 
@@ -122,7 +123,7 @@ body {
 
 .nav ul li.hover {
     height: 46px;
-    border-bottom: 3px solid #1a5ee2;
+    border-bottom: 3px solid #E4675b;
 }
 
 .nav ul li>a {
@@ -162,7 +163,7 @@ body {
     display: none;
     width: 380px;
     text-align: left;
-    border-top: 4px solid #1a5ee2;
+    border-top: 4px solid #E4675b;
     position: absolute;
     background: url("../images/bg2.png");
     overflow: hidden;
@@ -1115,7 +1116,7 @@ body {
 .right_bt {
     overflow: hidden;
     padding-bottom: 7px;
-    border-bottom: 1px solid #6b85b2;
+    border-bottom: 1px solid #E4675b;
 }
 
 .right_bt>h2 {
@@ -1211,7 +1212,7 @@ body {
     margin-top: 5px;
     font-size: 14px;
     font-weight: bold;
-    color: #2558af;
+    color: #E4675b;
     line-height: 30px;
 }
 
@@ -1268,7 +1269,7 @@ body {
 .car_zw p.jobtit {
     font-size: 14px;
     font-weight: bold;
-    color: #1e4e9e;
+    color: #E4675b;
     margin-bottom: 10px;
     line-height: 25px;
 }
@@ -1312,7 +1313,7 @@ body {
 }
 
 .liuyan p a {
-    color: #1b4a97;
+    color: #E4675b;
     text-decoration: underline;
 }
 
@@ -1389,7 +1390,7 @@ body {
 
 .lx_txt .ptit {
     font-size: 14px;
-    color: #255ab3;
+    color: #E4675b;
     line-height: 30px;
 }
 
@@ -1439,7 +1440,7 @@ body {
 
 .contact .lyp {
     font-size: 14px;
-    color: #255ab3;
+    color: #E4675b;
     font-weight: bold;
     line-height: 30px;
 }
@@ -1912,7 +1913,7 @@ body {
     display: none;
     padding-left: 40px;
     color: #fff;
-    background: #2456a9 url("../images/pr_bg2_2.png") repeat-x left top;
+    background: #b52d2d url("../images/pr_bg2_2.png") repeat-x left top;
     padding-right: 40px;
     padding-top: 10px;
     z-index: 99;
@@ -1945,7 +1946,7 @@ body {
 
 .pro li.current p {
     color: #fff;
-    background: #2456a9 url("../images/pr_bg2.png") no-repeat left top;
+    background: #E4675b url("../images/pr_bg2.png") no-repeat left top;
 }
 
 .list li {
@@ -2432,7 +2433,7 @@ body {
 
 .left_news .left_bt a:hover {
     float: right;
-    color: #9ac1ff;
+    color: #f5dbd4;
     font-size: 12px;
 }
 

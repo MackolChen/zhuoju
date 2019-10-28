@@ -39,9 +39,7 @@ var _hmt = _hmt || [];
 
                 </a>
             </div>
-            <p class="top_r">
-                    <a class="sitemap" href="../sitemap.shtml">网站地图</a> <span>|</span> <a href="../contact.shtml">联系我们</a> 
-                </p>
+            
 
             <div class="top_ss">
                 <input type="text" class="ss_txt" value="请输入搜索关键字" />
