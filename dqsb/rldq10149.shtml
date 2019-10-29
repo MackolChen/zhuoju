@@ -416,7 +416,7 @@
     })();
 </script>
 <!-- End Piwik Code -->
-<script>
+<!-- <script>
     var _hmt = _hmt || [];
     (function() {
         var hm = document.createElement("script");
@@ -433,7 +433,7 @@
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();
-</script>
+</script> -->
 <!-- JiaThis Button BEGIN -->
 <!-- <script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?move=0&btn=r3.gif" charset="utf-8"></script> -->
 <!-- JiaThis Button END -->
