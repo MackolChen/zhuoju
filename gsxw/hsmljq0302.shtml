@@ -436,7 +436,7 @@ function isFull(pChar) {
      });
 });
 </script>
-<script src="../QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
+<!-- <script src="../QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
 var _zyat = _zyat || [];
 _zyat.push(['trackPageView']);
 _zyat.push(['enableLinkTracking']);
@@ -449,7 +449,7 @@ _zyat.push(['setSiteType', 1]);
 var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
 g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'monitor.js'; s.parentNode.insertBefore(g,s);
 })();
-</script>
+</script> -->
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
