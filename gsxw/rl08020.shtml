@@ -386,20 +386,7 @@ function isFull(pChar) {
      });
 });
 </script>
-<!-- <script src="../QQ/ServiceQQ.htm" type="text/javascript"></script><script type="text/javascript">
-var _zyat = _zyat || [];
-_zyat.push(['trackPageView']);
-_zyat.push(['enableLinkTracking']);
-(function() {
-var u="//tm.71360.com/";
-_zyat.push(['setTrackerUrl', u+'monitor']);
-_zyat.push(['setSiteId', 54364]);
-_zyat.push(['setCstId', 52705]);
-_zyat.push(['setSiteType', 1]);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'monitor.js'; s.parentNode.insertBefore(g,s);
-})();
-</script> -->
+<!--  -->
 <!-- Piwik -->
 <!-- <script type="text/javascript">
   var _paq = _paq || [];
